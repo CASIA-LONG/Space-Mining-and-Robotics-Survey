@@ -174,12 +174,10 @@
 - [Sky and ground segmentation in the navigation visions of the planetary rovers](https://www.mdpi.com/1424-8220/21/21/6996), **2021**, `Sensors`, <u>Cranfield University</u>.
 - [AI-enabled Computer Vision Framework for Automated Knowledge Extraction in Planetary Rover Operations](https://www.researchgate.net/profile/Steven-Kay-2/publication/378486871_AI-Enabled_Computer_Vision_Framework_for_Automated_Knowledge_Extraction_in_Planetary_Rover_Operations/links/65dc8578adf2362b63592698/AI-Enabled-Computer-Vision-Framework-for-Automated-Knowledge-Extraction-in-Planetary-Rover-Operations.pdf), **2023**, `ASTRA`, <u>GMV NSL Ltd,  GMV Innovating Solutions Sp. z o.o., ul, University of Surrey</u>.
 - [Deep Learning based Semantic Segmentation for Mars Rover Terrain Classification](https://ieeexplore.ieee.org/abstract/document/10687827/), **2024**, `iSpaRo`, <u>KCL, University of Surrey, GMV NSL Ltd</u>.
-
 - [Instance Segmentation-Based Hazard Detectionwith Lunar South Pole Lighting](https://ieeexplore.ieee.org/abstract/document/11127967/), **2025**, `ICRA`, <u>NASA, The University of Texas at Arlington</u>.
-
 - [OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery](https://arxiv.org/pdf/2508.00580?), **2025**, `arXiv`, <u>University of Luxembourg, University of Malaga</u>.
-
 - [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/pdf/2503.11409), **2025**, `IROS`, <u>NUDT</u>. [[Code](https://github.com/nubot-nudt/LuSeg)]
+- [Fast Vision in the Dark: A Case for Single-Photon Imaging in Planetary Navigation](https://arxiv.org/pdf/2510.10597) **2025**, `ASTRA`, <u>University of Malaga</u>. 
 
 ### 3.4 Planning & Navigation
 
@@ -288,3 +286,4 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
