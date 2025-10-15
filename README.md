@@ -162,6 +162,8 @@
 - [REALMS: Resilient exploration and lunar mapping system](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1127496/full), **2023**, `Frontiers in Robotics and AI`, <u>University of Luxembourg</u>.
 - [A lunar reconnaissance drone for cooperative exploration and high-resolution mapping of extreme locations](https://www.sciencedirect.com/science/article/pii/S009457652400064X), **2024**, `Acta Astronautica`, <u>EPFL</u>.
 - [Analyzing the Effectiveness of Neural Radiance Fields for Geometric Modeling of Lunar Terrain](https://ieeexplore.ieee.org/abstract/document/10521163), **2024**, `IEEE Aerospace Conference`, <u>CMU, NASA</u>.
+- [Enhancing the Quality of 3D Lunar Maps Using JAXA’s Kaguya Imagery](https://arxiv.org/pdf/2510.11817), **2025**, `arXiv`, <u>Caltech, University of Oslo, LunaSol Space LLC</u>.
+
 
 #### 3.3.4 Perception
 
@@ -286,4 +288,5 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
