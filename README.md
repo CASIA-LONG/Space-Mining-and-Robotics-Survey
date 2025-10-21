@@ -95,7 +95,6 @@
 #### 3.2.4 Control
 
 - [Real-time assessment of robot performance during remote exploration operations](https://ieeexplore.ieee.org/abstract/document/4839310/), **2009**, `IEEE Aerospace conference`, <u>TRAC Laboratories, Inc., NASA, Space and Naval Warfare Systems Command, USA</u>.
-
 - [Traveling performance evaluation of planetary rovers on loose soil](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21405), **2012**, `JFR`  <u>Tohoku University</u>.
 - [Parameter Identification of a Planetary Rover Wheel–Soil Contact Model via a Bayesian Approach](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21480), **2013**, `JFR`, <u>GH University of Science and Technology, DRL</u>.
 - [Modeling, Analysis, and Control of an Actively Reconfigurable Planetary Rover for Traversing Slopes Covered with Loose Soil](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21479), **2013**, `JFR`, <u>Tohoku University</u>.
@@ -112,6 +111,7 @@
 - [Robust High-Order Sliding Mode Control for Collecting Objects by a Wheeled Space Rover With a Multi-Articulated Arm](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22608), **2025**, `JFR`, <u>Lomonosov Moscow State University, The Monterrey Institute of Technology and Higher Education</u>.
 - [Mars Traversability Prediction: A Multi-modal Self-supervised Approach for Costmap Generation](https://arxiv.org/pdf/2509.11082), **2025**, `arXiv`, <u>HIT</u>.
 - [Learning Rock Pushability on Rough Planetary Terrain](https://arxiv.org/pdf/2505.09833), **2025**, `IROS`, <u>Embry-Riddle Aeronautical University</u>.
+- [An adaptive hierarchical control framework for quadrupedal robots in planetary exploration](https://arxiv.org/pdf/2510.17249), **2025**, `arXiv`, <u>DFKI, German Aerospace Center, University of Bremen</u>.
 
 ### 3.3 Localization, Mapping & Perception
 
@@ -288,5 +288,6 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
