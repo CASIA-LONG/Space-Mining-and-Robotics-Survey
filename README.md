@@ -157,12 +157,12 @@
 #### 3.3.3 Mapping
 
 - [Mapping for Planetary Rovers from Terramechanics Perspective](https://ieeexplore.ieee.org/abstract/document/8967984/), **2019**, `IROS`, <u>HIT</u>.
-
 - [Semantic mapping in unstructured environments: Toward autonomous localization of planetary robotic explorers](https://russ-stuff.com/wp-content/uploads/2022/01/IEEE_AERO___Semantic_Segmentation_TRN_on_Mars.pdf), **2022**, `IEEE Aerospace Conference`, <u>NASA</u>.
 - [REALMS: Resilient exploration and lunar mapping system](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1127496/full), **2023**, `Frontiers in Robotics and AI`, <u>University of Luxembourg</u>.
 - [A lunar reconnaissance drone for cooperative exploration and high-resolution mapping of extreme locations](https://www.sciencedirect.com/science/article/pii/S009457652400064X), **2024**, `Acta Astronautica`, <u>EPFL</u>.
 - [Analyzing the Effectiveness of Neural Radiance Fields for Geometric Modeling of Lunar Terrain](https://ieeexplore.ieee.org/abstract/document/10521163), **2024**, `IEEE Aerospace Conference`, <u>CMU, NASA</u>.
 - [Enhancing the Quality of 3D Lunar Maps Using JAXA’s Kaguya Imagery](https://arxiv.org/pdf/2510.11817), **2025**, `arXiv`, <u>Caltech, University of Oslo, LunaSol Space LLC</u>.
+- [Adapting Stereo Vision From Objects To 3D Lunar Surface Reconstruction with the StereoLunar Dataset](https://arxiv.org/pdf/2510.18172), **2025**, `arXiv`, <u>Universite de Toulouse</u>. [[Website](https://clementinegrethen.github.io/publications/3D-Vast-ICCV2025.html)] [[Code](https://github.com/clementinegrethen/StereoLunar)]
 
 
 #### 3.3.4 Perception
@@ -201,8 +201,10 @@
 #### 3.4.2 Exploration
 
 - [Competency-Aware Collaborative Robotic Surface Exploration: A Study at the Mars Desert Research Station](https://ieeexplore.ieee.org/abstract/document/11154044/), **2025**, `TFR`, <u>University of Colorado Boulder, University of North Carolina Chapel Hill</u>.
+- [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
+- [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101), **2025**, `arXiv`, <u>USC</u>.
 
-###  3.5 Operartion and Tasks
+###  3.5 Operation and Tasks
 
 - [Planthaber, others, Lunares: Lunar crater exploration with heterogeneous multi robot systems](https://link.springer.com/article/10.1007/s11370-010-0081-4), **2011**, `Intelligent Service Robotics`, <u>DFKI, EADS Astrium GmbH, OHB System AG</u>.
 
@@ -288,6 +290,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
