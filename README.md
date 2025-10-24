@@ -18,7 +18,6 @@
 ### 2.1 Discover and Progress
 
 - [Mars exploration rover mobility development](https://ieeexplore.ieee.org/abstract/document/1638012/), 2006, RAM, <u>NASA, Caltech</u>.
-
 - [Spacecraft sample collection and subsurface excavation of asteroid (101955) Bennu](https://www.science.org/doi/abs/10.1126/science.abm1018), **2022**, `Science`, <u>University of Arizona, KinetX, University of Central Florida</u>.
 - [A 2-year locomotive exploration and scientific investigation of the lunar farside by the yutu-2 rover](https://www.science.org/doi/abs/10.1126/scirobotics.abj6660), **2022**, `Science Robotics`,<u>HIT, Beijing Aerospace Control Center, Ryerson University</u>. 
 - [Surface characteristics of the zhurong mars rover traverse at utopia planitia](https://www.nature.com/articles/s41561-022-00905-6), **2022**, `Nature Geoscience`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>. 
@@ -52,9 +51,7 @@
 #### 3.2.1 Robot and Mechanisms
 
 - [What really happened on mars rover pathfinder](https://cse.buffalo.edu/~bina/cse321/fall2019/Lectures/MarsRover.pdf), **1997**, `The Risks Digest`.
-
 - [Experimental study on autonomous burrowing screw robot for subsurface exploration on the Moon](https://ieeexplore.ieee.org/abstract/document/4650693/), **2008**, `IROS`, <u>JAXA</u>.
-
 - [Development of the six-legged walking and climbing robot SpaceClimber](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21418), **2012**, `JFR`, <u>DFKI</u>.
 - [Development and field testing of the FootFall planning system for the ATHLETE robots](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20410), **2012**, `JFR`, <u>NASA, Stanford University, Caltech</u>.
 - [Axel and DuAxel rovers for the sustainable exploration of extreme terrains](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21407), **2012**, `JFR`, <u>Caltech</u>.
@@ -82,6 +79,7 @@
 - [Efficient Learning-Based Control of a Legged Robot in Lunar Gravity](https://arxiv.org/pdf/2509.10128), **2025**, `arXiv`, <u>ETH</u>.
 - [Planetary Drilling Autonomy](https://ntrs.nasa.gov/api/citations/20250004558/downloads/DC_Abstract.pdf), **2025**, `ICRA Doctoral Consortium`, <u>University of Minnesota</u>.
 - [Olympus: A Jumping Quadruped for Planetary Exploration Utilizing Reinforcement Learning for In-flight Attitude Control](https://arxiv.org/pdf/2503.03574), **2025**, `arXiv`, <u>NTNU</u>.
+- [Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots](https://arxiv.org/pdf/2510.20347), **2025**, `arXiv`, <u>Tohoku University, Politecnico di Milano</u>.
 
 #### 3.2.2 Space Emulation Environment
 
@@ -290,6 +288,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
