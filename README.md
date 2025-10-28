@@ -80,6 +80,7 @@
 - [Planetary Drilling Autonomy](https://ntrs.nasa.gov/api/citations/20250004558/downloads/DC_Abstract.pdf), **2025**, `ICRA Doctoral Consortium`, <u>University of Minnesota</u>.
 - [Olympus: A Jumping Quadruped for Planetary Exploration Utilizing Reinforcement Learning for In-flight Attitude Control](https://arxiv.org/pdf/2503.03574), **2025**, `arXiv`, <u>NTNU</u>.
 - [Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots](https://arxiv.org/pdf/2510.20347), **2025**, `arXiv`, <u>Tohoku University, Politecnico di Milano</u>.
+- [MoonBot: Modular and On-demand Reconfigurable Robot Towards Moon Base Construction](https://ieeexplore.ieee.org/document/11214551), **2025**, `TFR`, <u>Tohoku University</u>.
 
 #### 3.2.2 Space Emulation Environment
 
@@ -195,6 +196,7 @@
 - [Energy-Constrained Navigation for Planetary Rovers under Hybrid RTG-Solar Power](https://arxiv.org/pdf/2509.15062), **2025**, `arXiv`, <u>NTU</u>.
 - [Path planning algorithm for a South Pole lunar rover mission](https://www.sciencedirect.com/science/article/pii/S0094576525004898), **2025**, `Acta Astronautica`, <u>Canadian Space Agency, University of Montreal</u>.
 - [VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/pdf/2506.16703), **2025**, `arXiv`, <u>HIT</u>. [[Website](https://chengsn1234.github.io/multi-mode-planetary-navigation/)]
+- [Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon](https://arxiv.org/pdf/2510.23329), **2025**, `arXiv`, <u>Tohoku University</u>.
 
 #### 3.4.2 Exploration
 
@@ -288,6 +290,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
