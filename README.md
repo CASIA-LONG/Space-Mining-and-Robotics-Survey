@@ -131,6 +131,7 @@
 - [Landmark-aware autonomous odometry correction and map pruning for planetary rovers](https://www.sciencedirect.com/science/article/abs/pii/S009457652400599X), **2025**, `Acta Astronautica`, <u>Nanjing University of Aeronautics and Astronautics, Chinese Academy of Sciences, HIT</u>.
 - [Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions](https://arxiv.org/pdf/2502.09795), **2025**, `arXiv`, <u>Caltech</u>.
 - [A Novel Absolute/Relative Fusion Approach for Visual Localization of Planetary Lander Employing a Unified Error Metric](https://ieeexplore.ieee.org/abstract/document/11105430), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Tongji University</u>.
+- [Onboard Autonomous Health Assessment and Global Localization for the Mars Helicopter: Towards Multi-Flight Operations](https://ieeexplore.ieee.org/document/11215825), **2025**, `TFR`, <u>Caltech</u>.
 
 #### 3.3.2 Odomentry & SLAM
 
@@ -290,6 +291,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
