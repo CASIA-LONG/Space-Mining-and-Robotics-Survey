@@ -180,7 +180,8 @@
 - [Instance Segmentation-Based Hazard Detectionwith Lunar South Pole Lighting](https://ieeexplore.ieee.org/abstract/document/11127967/), **2025**, `ICRA`, <u>NASA, The University of Texas at Arlington</u>.
 - [OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery](https://arxiv.org/pdf/2508.00580?), **2025**, `arXiv`, <u>University of Luxembourg, University of Malaga</u>.
 - [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/pdf/2503.11409), **2025**, `IROS`, <u>NUDT</u>. [[Code](https://github.com/nubot-nudt/LuSeg)]
-- [Fast Vision in the Dark: A Case for Single-Photon Imaging in Planetary Navigation](https://arxiv.org/pdf/2510.10597) **2025**, `ASTRA`, <u>University of Malaga</u>. 
+- [Fast Vision in the Dark: A Case for Single-Photon Imaging in Planetary Navigation](https://arxiv.org/pdf/2510.10597) **2025**, `ASTRA`, <u>University of Malaga</u>.
+- [Space-LLaVA: a Vision-Language Model Adapted to Extraterrestrial Applications](https://arxiv.org/pdf/2408.05924) **2025**, `arXiv`, <u>Stanford University</u>.
 
 ### 3.4 Planning & Navigation
 
@@ -209,7 +210,6 @@
 ###  3.5 Operation and Tasks
 
 - [Planthaber, others, Lunares: Lunar crater exploration with heterogeneous multi robot systems](https://link.springer.com/article/10.1007/s11370-010-0081-4), **2011**, `Intelligent Service Robotics`, <u>DFKI, EADS Astrium GmbH, OHB System AG</u>.
-
 - [Mobile in-situ water extractor (MISWE) for Mars, Moon, and Asteroids in situ resource utilization](https://arc.aiaa.org/doi/pdf/10.2514/6.2012-5168), **2012**, `AIAA SPACE conference & exposition`, <u>Honeybee Robotics</u>.
 - [Autonomous Go-and-Touch Exploration (AGATE)](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21401), **2012**, `JFR`, <u>Yoder Software, Ohio Northern University</u>
 - [The ESA Lunar Robotics Challenge: Simulating operations at the lunar south pole](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20429), **2012**, `JFR`, <u>University of Pisa, Jacobs University, University of Surrey</u>.
@@ -292,6 +292,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
