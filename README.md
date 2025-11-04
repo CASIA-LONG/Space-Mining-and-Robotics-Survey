@@ -81,6 +81,7 @@
 - [Olympus: A Jumping Quadruped for Planetary Exploration Utilizing Reinforcement Learning for In-flight Attitude Control](https://arxiv.org/pdf/2503.03574), **2025**, `arXiv`, <u>NTNU</u>.
 - [Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots](https://arxiv.org/pdf/2510.20347), **2025**, `arXiv`, <u>Tohoku University, Politecnico di Milano</u>.
 - [MoonBot: Modular and On-demand Reconfigurable Robot Towards Moon Base Construction](https://ieeexplore.ieee.org/document/11214551), **2025**, `TFR`, <u>Tohoku University</u>.
+- [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
 
 #### 3.2.2 Space Emulation Environment
 
@@ -291,6 +292,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
