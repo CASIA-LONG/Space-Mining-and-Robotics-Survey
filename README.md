@@ -165,6 +165,7 @@
 - [Analyzing the Effectiveness of Neural Radiance Fields for Geometric Modeling of Lunar Terrain](https://ieeexplore.ieee.org/abstract/document/10521163), **2024**, `IEEE Aerospace Conference`, <u>CMU, NASA</u>.
 - [Enhancing the Quality of 3D Lunar Maps Using JAXA’s Kaguya Imagery](https://arxiv.org/pdf/2510.11817), **2025**, `arXiv`, <u>Caltech, University of Oslo, LunaSol Space LLC</u>.
 - [Adapting Stereo Vision From Objects To 3D Lunar Surface Reconstruction with the StereoLunar Dataset](https://arxiv.org/pdf/2510.18172), **2025**, `arXiv`, <u>Universite de Toulouse</u>. [[Website](https://clementinegrethen.github.io/publications/3D-Vast-ICCV2025.html)] [[Code](https://github.com/clementinegrethen/StereoLunar)]
+- [3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots](https://arxiv.org/pdf/2511.05816), **2025**, `arXiv`, <u>Tohoku University</u>.
 
 
 #### 3.3.4 Perception
@@ -293,6 +294,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
