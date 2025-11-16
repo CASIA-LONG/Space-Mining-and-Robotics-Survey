@@ -82,6 +82,7 @@
 - [Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots](https://arxiv.org/pdf/2510.20347), **2025**, `arXiv`, <u>Tohoku University, Politecnico di Milano</u>.
 - [MoonBot: Modular and On-demand Reconfigurable Robot Towards Moon Base Construction](https://ieeexplore.ieee.org/document/11214551), **2025**, `TFR`, <u>Tohoku University</u>.
 - [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
+- [Novel Robotic Fleet for Sample Recovery in Lunar Craters: A Concept of Operations](https://ieeexplore.ieee.org/document/11248963), **2025**, `TFR`, <u>Texas A&M University</u>.
 
 #### 3.2.2 Space Emulation Environment
 
@@ -294,6 +295,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
