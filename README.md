@@ -210,6 +210,7 @@
 - [Competency-Aware Collaborative Robotic Surface Exploration: A Study at the Mars Desert Research Station](https://ieeexplore.ieee.org/abstract/document/11154044/), **2025**, `TFR`, <u>University of Colorado Boulder, University of North Carolina Chapel Hill</u>.
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101), **2025**, `arXiv`, <u>USC</u>.
+- [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984), **2025**, `arXiv`, <u>Inha University, Kyung Hee University</u>.
 
 ###  3.5 Operation and Tasks
 
@@ -296,6 +297,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
