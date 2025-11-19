@@ -236,6 +236,7 @@
 - [Robotic exploration of Martian caves: Evaluating operational concepts through analog experiments in lava tubes](https://www.sciencedirect.com/science/article/abs/pii/S0094576524004107), **2024**, `Acta Astronautica`, <u>Caltech, USC, University of Guelph</u>.
 - [AI Space Cortex: An Experimental System for Future Era Space Exploration](https://ieeexplore.ieee.org/abstract/document/11078376), **2025**, `TFR`, <u>Caltech, Okean Solutions, Stealth Labs</u>.
 - [A Human–Robot Team Knowledge-Enhanced Large Language Model for Fault Analysis in Lunar Surface Exploration](https://www.mdpi.com/2226-4310/12/4/325), **2025**, `Aerospace`, <u>HUST</u>.
+- [Towards A Catalogue of Requirement Patterns for Space Robotic Missions](https://arxiv.org/pdf/2511.14438), **2025**, `arXiv`, <u>University of Manchester</u>.
 
 ### 3.6. Dataset & Simulator
 
@@ -297,6 +298,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
