@@ -204,6 +204,7 @@
 - [VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/pdf/2506.16703), **2025**, `arXiv`, <u>HIT</u>. [[Website](https://chengsn1234.github.io/multi-mode-planetary-navigation/)]
 - [Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon](https://arxiv.org/pdf/2510.23329), **2025**, `arXiv`, <u>Tohoku University</u>.
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
+- [Enhanced Autonomous Navigation on the Perseverance Mars Rover](https://ieeexplore.ieee.org/document/11265757), **2025**, `TFR`, <u>Caltech</u>.
 
 #### 3.4.2 Exploration
 
@@ -298,6 +299,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
