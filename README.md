@@ -148,14 +148,17 @@
 - [Visual SLAM-based robotic mapping method for planetary construction](https://www.mdpi.com/1424-8220/21/22/7715), **2021**, `Sensors`, <u>Inha University, KAIST, Korea Institute of Civil Engineering and Building Technology</u>.
 - [A comparison of robust kalman filters for improving wheel-inertial odometry in planetary rovers](https://www.ion.org/publications/abstract.cfm?articleID=17938), **2021**, `ION GNSS+`, <u>West Virginia University</u>.
 - [Towards robust monocular visual odometry for flying robots on planetary missions](https://ieeexplore.ieee.org/abstract/document/9636844/), **2021**, `IROS`, <u>DLR, TUM</u>.
+- [Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry](https://rpg.ifi.uzh.ch/docs/RAL22_Polizzi.pdf), **2022**, `RAL`, <u>University of Zurich, Caltech</u>. [[Code](https://github.com/jpl-x/x_multi_agent)]
 - [GPGM-SLAM: a robust slam system for unstructured planetary environments with gaussian process gradient maps](https://ieeexplore.ieee.org/abstract/document/10876014/), **2022**, `Field Robotics`, <u>DLR, UTS</u>.
 - [Exploring event camera-based odometry for planetary robots](https://ieeexplore.ieee.org/abstract/document/9813406/), **2022**, `RAL`, <u>Caltech, University of Zurich</u>.
 - [An Innovative Pose Determination Algorithm for Planetary Rover Onboard Visual Odometry](https://www.mdpi.com/2226-4310/9/7/391), **2022**, `Aerospace`, <u>HIT, University of Canterbury</u>.
 - [Evaluation of visual SLAM algorithms in unstructured planetary-like and agricultural environments](https://www.sciencedirect.com/science/article/abs/pii/S016786552400285X), **2024**, `Pattern Recognition Letters`, <u>INAOE</u>.
+- [Structure-Invariant Range-Visual-Inertial Odometry](https://rpg.ifi.uzh.ch/docs/IROS24_Alberico.pdf), **2024**, `IROS`, <u>University of Zurich, Caltech</u>.
 - [LuVo: Lunar Visual Odometry using Homography-based Image Feature Matching](https://ieeexplore.ieee.org/abstract/document/11127410/), **2025**, `ICRA`, <u>NASA.</u>
 - [Neural Implicit Monocular Visual SLAM for 3D Reconstruction in Planetary Environments](https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/959/2025/isprs-archives-XLVIII-G-2025-959-2025.html), **2025**, `ISPRS`, <u>Tongji University</u>.
 - [MAR-VO: A Match-and-Refine Framework for UAV’s Monocular Visual Odometry in Planetary Environments](https://ieeexplore.ieee.org/abstract/document/10854502), **2025**, `TGRS`, <u>Southeast University, Chinese Academy of Science</u>.
 - [Lo-SLAM: Lunar Target-oriented SLAM Using Object Identification, Relative Navigation and Multi-level Mapping](https://ieeexplore.ieee.org/abstract/document/10930639/), **2025**, `TGRS`, <u>University of Chinese Academy of Sciences, Chinese Academy of Science. Nanjing University of Aeronautics and Astronautics</u>.
+
 
 #### 3.3.3 Mapping
 
@@ -299,6 +302,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
