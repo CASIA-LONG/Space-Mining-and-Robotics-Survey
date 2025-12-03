@@ -287,7 +287,7 @@
 
 - [POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation](https://arxiv.org/pdf/2309.12397), **2025**, `arXiv`, <u>University of Wisconsin-Madison</u>.
 
-- [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](https://arxiv.org/pdf/2507.07978), **2025**, `arXiv`, <u>BJTU, UT Austin, HKUST</u>.  [[Website](https://marsgenai.github.io/)] [[Code](https://github.com/loongfeili/Martian-World-Model)]
+- [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](https://arxiv.org/pdf/2507.07978), **2025**, `NeurIPS`, <u>BJTU, UT Austin, HKUST</u>.  [[Website](https://marsgenai.github.io/)] [[Code](https://github.com/loongfeili/Martian-World-Model)]
 
 ## 4 Space Robots Challenge
 
@@ -302,6 +302,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
