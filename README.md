@@ -208,6 +208,7 @@
 - [Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon](https://arxiv.org/pdf/2510.23329), **2025**, `arXiv`, <u>Tohoku University</u>.
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Enhanced Autonomous Navigation on the Perseverance Mars Rover](https://ieeexplore.ieee.org/document/11265757), **2025**, `TFR`, <u>Caltech</u>.
+- [CRESCENT: Collision-Free Highly-Constrained Trajectory Optimization for Driving on the Moon](https://ieeexplore.ieee.org/document/11272447), **2025**, `TFR`, <u>Caltech, Johns Hopkins University, UCLA</u>.
 
 #### 3.4.2 Exploration
 
@@ -302,6 +303,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
