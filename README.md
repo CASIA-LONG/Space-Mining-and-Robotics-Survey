@@ -158,6 +158,7 @@
 - [Neural Implicit Monocular Visual SLAM for 3D Reconstruction in Planetary Environments](https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/959/2025/isprs-archives-XLVIII-G-2025-959-2025.html), **2025**, `ISPRS`, <u>Tongji University</u>.
 - [MAR-VO: A Match-and-Refine Framework for UAV’s Monocular Visual Odometry in Planetary Environments](https://ieeexplore.ieee.org/abstract/document/10854502), **2025**, `TGRS`, <u>Southeast University, Chinese Academy of Science</u>.
 - [Lo-SLAM: Lunar Target-oriented SLAM Using Object Identification, Relative Navigation and Multi-level Mapping](https://ieeexplore.ieee.org/abstract/document/10930639/), **2025**, `TGRS`, <u>University of Chinese Academy of Sciences, Chinese Academy of Science. Nanjing University of Aeronautics and Astronautics</u>.
+- [Visual–LiDAR SLAM for Rover Navigation in Planetary Environments With Plane Constraints and Global Optimization](https://ieeexplore.ieee.org/document/11231375/), **2025**, `EEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Tongji University</u>.
 
 
 #### 3.3.3 Mapping
@@ -303,6 +304,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
