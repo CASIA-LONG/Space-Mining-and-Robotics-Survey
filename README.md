@@ -199,8 +199,9 @@
 - [An Open Research Facility for Vision-Based Navigation Onboard the International Space Station](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21622), 2015, `JFR` <u>MIT</u>.
 - [Cooperative Relative Navigation for Space Rendezvous and Proximity Operations using Controlled Active Vision](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21575), **2015**, `JFR`  <u>Gatech</u>.
 - [Perception-aware autonomous mast motion planning for planetary exploration rovers](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21925), **2019**, `JFR`, <u>West Virginia University, Caltech</u>.
-- [Rough terrain navigation for legged robots using reachability planning and template learning](https://ieeexplore.ieee.org/abstract/document/9636358/), **2021**, `IROS`, <u>ETH</u>.
+- [Rough terrain navigation for legged robots using reachability planning and template learning](https://proceedings.mlr.press/v229/jayanthi23a/jayanthi23a.pdf/), **2023**, `CoRL`, <u>Georgia Institute of Technology, Caltech</u>.
 - [Autonomous cooperative visual navigation for planetary exploration robots](https://ieeexplore.ieee.org/abstract/document/9561767), **2021**, `ICRA`, <u>City University of London, Sirjan University of Technology</u>.
+- [DROID: Learning from Offline Heterogeneous Demonstrations via Reward-Policy Distillation](https://ieeexplore.ieee.org/abstract/document/9561767), **2021**, `ICRA`, <u>City University of London, Sirjan University of Technology</u>.
 - [Learning-based end-to-end navigation for planetary rovers considering non-geometric hazards](https://ieeexplore.ieee.org/abstract/document/10138604/), **2023**, `RAL`, <u>HIT</u>.
 - [Traversing Mars: Cooperative Informative Path Planning to Efficiently Navigate Unknown Scenes](https://ieeexplore.ieee.org/abstract/document/10783051/), **2024**, `RAL`, <u>ETH, DLR, MIT</u>. [[Code](https://github.com/ethz-asl/scouting-ipp)]
 - [RAPF: Efficient path planning for lunar microrovers](https://ieeexplore.ieee.org/abstract/document/10688117/), **2024**, `iSpaRo`, <u>Delft University of Technology, EPFL</u>.
@@ -306,6 +307,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
