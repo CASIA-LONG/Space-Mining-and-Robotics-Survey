@@ -211,6 +211,7 @@
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Enhanced Autonomous Navigation on the Perseverance Mars Rover](https://ieeexplore.ieee.org/document/11265757), **2025**, `TFR`, <u>Caltech</u>.
 - [CRESCENT: Collision-Free Highly-Constrained Trajectory Optimization for Driving on the Moon](https://ieeexplore.ieee.org/document/11272447), **2025**, `TFR`, <u>Caltech, Johns Hopkins University, UCLA</u>.
+- [Planetary Terrain Datasets and Benchmarks for Rover Path Planning](https://arxiv.org/pdf/2512.21438), **2025**, `arXiv`, <u>Luleå University of Technology</u>. [[Code](https://github.com/mchancan/PlanetaryPathBench)]
 
 #### 3.4.2 Exploration
 
@@ -305,6 +306,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
