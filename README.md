@@ -275,23 +275,15 @@
 #### 3.6.2 Simulator
 
 - [Simulations of Mars Rover Traverses](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21483), **2013**, `JFR`, <u>Washington University in St Louis, Caltech, MIT</u>.
-
 - [Planetary Rover Simulation for Lunar Exploration Missions](https://ieeexplore.ieee.org/abstract/document/8741780/), **2019**, `IEEE Aerospace Conference`, <u>NASA, Logyx LLC</u>.
-
 - [MarsSim: A high-fidelity physical and visual simulation for Mars rovers](https://ieeexplore.ieee.org/abstract/document/9894666/), **2022**, `TAES`, <u>HIT</u>.
-
+- [LunarSim: Lunar Rover Simulator Focused on High Visual Fidelity and ROS 2 Integration for Advanced Computer Vision Algorithm Development](https://www.mdpi.com/2076-3417/13/22/12401), **2023**, `Applied Sciences`, <u>Poznan University of Technology</u>. [[Code](https://github.com/PUTvision/LunarSim)]
 - [OmniLRS: A Photorealistic Simulator for Lunar Robotics](https://ieeexplore.ieee.org/abstract/document/10610026/), **2024**, `ICRA`, <u>University of Luxembourg, Tohoku University</u>. [[Code](https://github.com/OmniLRS/OmniLRS)]
-
 - [Modeling of Terrain Deformation by a Grouser Wheel for Lunar Rover Simulation](https://arxiv.org/pdf/2408.13468), **2024**, `arXiv`, <u>Tohoku University, University of Luxembourg</u>.
-
 - [Digital Proving Ground: VIPER Rover Simulator (RSIM)](https://ntrs.nasa.gov/api/citations/20240014271/downloads/LSIC_2024-Proving%20Ground%20Panel-RSIM-Fong-full.pdf), **2024**, `LSIC Fall Meeting`, <u>NASA</u>.
-
 - [An integrated process for design and control of lunar robotics using AI and  simulation](https://arxiv.org/pdf/2509.12367), **2025**, `arXiv`, <u>Algoryx Simulation, Umea University</u>.
-
 - [Space Robotics Bench: Robot Learning Beyond Earth](https://arxiv.org/pdf/2509.23328), **2025**, `arXiv`, <u>University of Luxembourg</u>. [[Code](https://github.com/AndrejOrsula/space_robotics_bench)] [[Website](https://andrejorsula.github.io/space_robotics_bench/)]
-
 - [POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation](https://arxiv.org/pdf/2309.12397), **2025**, `arXiv`, <u>University of Wisconsin-Madison</u>.
-
 - [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](https://arxiv.org/pdf/2507.07978), **2025**, `NeurIPS`, <u>BJTU, UT Austin, HKUST</u>.  [[Website](https://marsgenai.github.io/)] [[Code](https://github.com/loongfeili/Martian-World-Model)]
 
 ## 4 Space Robots Challenge
@@ -307,6 +299,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
