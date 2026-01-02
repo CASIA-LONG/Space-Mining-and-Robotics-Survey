@@ -185,11 +185,13 @@
 - [Sky and ground segmentation in the navigation visions of the planetary rovers](https://www.mdpi.com/1424-8220/21/21/6996), **2021**, `Sensors`, <u>Cranfield University</u>.
 - [AI-enabled Computer Vision Framework for Automated Knowledge Extraction in Planetary Rover Operations](https://www.researchgate.net/profile/Steven-Kay-2/publication/378486871_AI-Enabled_Computer_Vision_Framework_for_Automated_Knowledge_Extraction_in_Planetary_Rover_Operations/links/65dc8578adf2362b63592698/AI-Enabled-Computer-Vision-Framework-for-Automated-Knowledge-Extraction-in-Planetary-Rover-Operations.pdf), **2023**, `ASTRA`, <u>GMV NSL Ltd,  GMV Innovating Solutions Sp. z o.o., ul, University of Surrey</u>.
 - [Deep Learning based Semantic Segmentation for Mars Rover Terrain Classification](https://ieeexplore.ieee.org/abstract/document/10687827/), **2024**, `iSpaRo`, <u>KCL, University of Surrey, GMV NSL Ltd</u>.
+- [Covariance Based Terrain Mapping for Autonomous Mobile Robots](https://ieeexplore.ieee.org/abstract/document/10610010/), **2024**, `ICRA`, <u>Julius-Maximilians-University Würzburg</u>.
 - [Instance Segmentation-Based Hazard Detectionwith Lunar South Pole Lighting](https://ieeexplore.ieee.org/abstract/document/11127967/), **2025**, `ICRA`, <u>NASA, The University of Texas at Arlington</u>.
 - [OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery](https://arxiv.org/pdf/2508.00580?), **2025**, `arXiv`, <u>University of Luxembourg, University of Malaga</u>.
 - [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/pdf/2503.11409), **2025**, `IROS`, <u>NUDT</u>. [[Code](https://github.com/nubot-nudt/LuSeg)]
 - [Fast Vision in the Dark: A Case for Single-Photon Imaging in Planetary Navigation](https://arxiv.org/pdf/2510.10597) **2025**, `ASTRA`, <u>University of Malaga</u>.
 - [Space-LLaVA: a Vision-Language Model Adapted to Extraterrestrial Applications](https://arxiv.org/pdf/2408.05924) **2025**, `arXiv`, <u>Stanford University</u>.
+
 
 ### 3.4 Planning & Navigation
 
@@ -205,6 +207,7 @@
 - [Learning-based end-to-end navigation for planetary rovers considering non-geometric hazards](https://ieeexplore.ieee.org/abstract/document/10138604/), **2023**, `RAL`, <u>HIT</u>.
 - [Traversing Mars: Cooperative Informative Path Planning to Efficiently Navigate Unknown Scenes](https://ieeexplore.ieee.org/abstract/document/10783051/), **2024**, `RAL`, <u>ETH, DLR, MIT</u>. [[Code](https://github.com/ethz-asl/scouting-ipp)]
 - [RAPF: Efficient path planning for lunar microrovers](https://ieeexplore.ieee.org/abstract/document/10688117/), **2024**, `iSpaRo`, <u>Delft University of Technology, EPFL</u>.
+- [Kernel-based Diffusion Approximated Markov Decision Processes for Autonomous Navigation and Control on Unstructured Terrains](https://journals.sagepub.com/doi/full/10.1177/02783649231225977), **2024**, `IJRR`, <u> Indiana University Bloomington, Expedia Group, Army Research Laboratory</u>.
 - [Energy-Constrained Navigation for Planetary Rovers under Hybrid RTG-Solar Power](https://arxiv.org/pdf/2509.15062), **2025**, `arXiv`, <u>NTU</u>.
 - [Path planning algorithm for a South Pole lunar rover mission](https://www.sciencedirect.com/science/article/pii/S0094576525004898), **2025**, `Acta Astronautica`, <u>Canadian Space Agency, University of Montreal</u>.
 - [VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/pdf/2506.16703), **2025**, `arXiv`, <u>HIT</u>. [[Website](https://chengsn1234.github.io/multi-mode-planetary-navigation/)]
@@ -216,10 +219,13 @@
 
 #### 3.4.2 Exploration
 
+- [CADRE MoonDB: Distributed Database for Multi-Robot Information-Sharing and Map-Merging for Lunar Exploration](https://www.federico.io/pdf/Saboia.Rossi.ea.MASSPACE24.pdf), **2024**, `MASSpace Workshop`, <u>Caltech</u>.
+- [Multi-Agent Autonomy for Space Exploration on the CADRELunarTechnology Demonstration](https://ieeexplore.ieee.org/abstract/document/10521425/), **2024**, `IEEE Aerospace Conference`, <u>Caltech</u>.
 - [Competency-Aware Collaborative Robotic Surface Exploration: A Study at the Mars Desert Research Station](https://ieeexplore.ieee.org/abstract/document/11154044/), **2025**, `TFR`, <u>University of Colorado Boulder, University of North Carolina Chapel Hill</u>.
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101), **2025**, `arXiv`, <u>USC</u>.
 - [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984), **2025**, `arXiv`, <u>Inha University, Kyung Hee University</u>.
+
 
 ###  3.5 Operation and Tasks
 
@@ -286,6 +292,10 @@
 - [POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation](https://arxiv.org/pdf/2309.12397), **2025**, `arXiv`, <u>University of Wisconsin-Madison</u>.
 - [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](https://arxiv.org/pdf/2507.07978), **2025**, `NeurIPS`, <u>BJTU, UT Austin, HKUST</u>.  [[Website](https://marsgenai.github.io/)] [[Code](https://github.com/loongfeili/Martian-World-Model)]
 
+#### UI and Digital Twin
+- [Design and evaluation of an UI for astronauts to control mobile robots on planetary surfaces](https://ieeexplore.ieee.org/abstract/document/10535929/), **2024**, `ICARSC`, <u>Julius-Maximilians-University</u>.
+- [Digital Twin for Analog Mars Missions: Investigating Local Positioning Alternatives for GNSS-Denied Environments](https://ieeexplore.ieee.org/abstract/document/10535929/), **2025**, `sensors`, <u>University of Innsbruck, University of Innsbruck, Ludwig-Maximilians-University</u>.
+
 ## 4 Space Robots Challenge
 
 | Index | Challenge                                     | Date | Tasks                                                        | link                                                         |
@@ -299,6 +309,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
