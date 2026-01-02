@@ -31,6 +31,17 @@
 
 ## 3 Space Robot Paper List
 
+
+### Remote Sensing
+- 月球探测遥感影像匹配方法研究综述
+- [月球探测中遥感制图的几何精度问题](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20254405/), **2025**, `遥感学报`, <u>中国科学院空天信息创新研究院</u>.
+
+### Landing
+- 嫦娥六号着陆点高精度视觉定位,
+- 基于多源影像的探测器月面着陆点定位与精度验证
+- 
+
+
 ### 3.1 Survey Paper
 
 - [Space robotics in Europe: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0921889097000535), **1998**, `RAS`, <u>ESA/ESTEC</u>.
@@ -124,6 +135,7 @@
 - [Rover Localization in Mars  Helicopter Aerial Maps: Experimental Results in a Mars-Analogue  Environment](https://link.springer.com/chapter/10.1007/978-3-030-33950-0_7), **2018**, `International Symposium on Experimental Robotics`, <u>NASA</u>.
 - [SLAM for autonomous planetary rovers with global localization](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21943), **2020**, `JFR`, <u>European Space Agency, University of Malaga, Aristotle University of Thessaloniki</u>.
 - [A Neuromorphic Vision-Based Measurement for Robust Relative Localization in Future Space Exploration Missions](https://ieeexplore.ieee.org/abstract/document/9931531/), **2022**, `TIM`, <u>Khalifa University</u>.
+- [基于多源影像的“祝融号”火星车高精度定位](https://www.spacejournal.cn/sktcxb/article/doi/10.15982/j.issn.2096-9287.2022.20210124), **2022**, `深空探测学报`, <u>北京航天飞行控制中心, 中国科学院空天信息创新研究院</u>.
 - [Terrain Aided Planetary UAV Localization Based on Geo-referencing](https://ieeexplore.ieee.org/abstract/document/9856688/), **2024**, `TGRS`, <u>Chinese Academy of Sciences</u>.
 - [JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10802040/), **2024**, `IROS`, <u>University of Chinese Academy of Sciences, Jilin University, Chinese Academy of Sciences</u>. [[Code](https://github.com/LuoXubo/JointLoc)]
 - [LunarLoc: Segment-Based Global Localization on the Moon](https://openreview.net/forum?id=SJ7vgKZo9Q), **2025**, `RSSw`, <u>MIT</u>. [[Code](https://github.com/mit-acl/lunarloc-data)]
@@ -135,6 +147,7 @@
 - [A Novel Absolute/Relative Fusion Approach for Visual Localization of Planetary Lander Employing a Unified Error Metric](https://ieeexplore.ieee.org/abstract/document/11105430), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Tongji University</u>.
 - [Onboard Autonomous Health Assessment and Global Localization for the Mars Helicopter: Towards Multi-Flight Operations](https://ieeexplore.ieee.org/document/11215825), **2025**, `TFR`, <u>Caltech</u>.
 - [MarsLGPR: Mars Rover Localization with Ground Penetrating Radar](https://ieeexplore.ieee.org/document/11225894), **2025**, `TFR`, <u>University of Michigan</u>.
+- [Visual Localization and Topographic Mapping for Zhurong Rover in Tianwen-1 Mars Mission](https://ieeexplore.ieee.org/abstract/document/10878476), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Chinese Academy of Sciences, Beijing Aerospace Control Center</u>.
 
 #### 3.3.2 Odomentry & SLAM
 
@@ -191,6 +204,7 @@
 - [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/pdf/2503.11409), **2025**, `IROS`, <u>NUDT</u>. [[Code](https://github.com/nubot-nudt/LuSeg)]
 - [Fast Vision in the Dark: A Case for Single-Photon Imaging in Planetary Navigation](https://arxiv.org/pdf/2510.10597) **2025**, `ASTRA`, <u>University of Malaga</u>.
 - [Space-LLaVA: a Vision-Language Model Adapted to Extraterrestrial Applications](https://arxiv.org/pdf/2408.05924) **2025**, `arXiv`, <u>Stanford University</u>.
+- [火星表面石块的卷积自注意力网络识别方法](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20255015/) **2025**, `遥感学报`, <u>北京信息科技大学, 中国科学院空天信息创新研究院,  中国科学院大学</u>.
 
 
 ### 3.4 Planning & Navigation
@@ -309,6 +323,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
