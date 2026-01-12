@@ -94,6 +94,7 @@
 - [MoonBot: Modular and On-demand Reconfigurable Robot Towards Moon Base Construction](https://ieeexplore.ieee.org/document/11214551), **2025**, `TFR`, <u>Tohoku University</u>.
 - [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
 - [Novel Robotic Fleet for Sample Recovery in Lunar Craters: A Concept of Operations](https://ieeexplore.ieee.org/document/11248963), **2025**, `TFR`, <u>Texas A&M University</u>.
+- [Design and Development of Modular Limbs for Reconfigurable Robots on the Moon](https://arxiv.org/pdf/2601.04541), **2026**, `arXiv`, <u>Tohoku University</u>.
 
 #### 3.2.2 Space Emulation Environment
 
@@ -266,6 +267,7 @@
 - [AI Space Cortex: An Experimental System for Future Era Space Exploration](https://ieeexplore.ieee.org/abstract/document/11078376), **2025**, `TFR`, <u>Caltech, Okean Solutions, Stealth Labs</u>.
 - [A Human–Robot Team Knowledge-Enhanced Large Language Model for Fault Analysis in Lunar Surface Exploration](https://www.mdpi.com/2226-4310/12/4/325), **2025**, `Aerospace`, <u>HUST</u>.
 - [Towards A Catalogue of Requirement Patterns for Space Robotic Missions](https://arxiv.org/pdf/2511.14438), **2025**, `arXiv`, <u>University of Manchester</u>.
+- [Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction](https://arxiv.org/pdf/2601.05491), **2026**, `arXiv`, <u>Tohoku University</u>.
 
 ### 3.6. Dataset & Simulator
 
@@ -305,6 +307,7 @@
 - [Space Robotics Bench: Robot Learning Beyond Earth](https://arxiv.org/pdf/2509.23328), **2025**, `arXiv`, <u>University of Luxembourg</u>. [[Code](https://github.com/AndrejOrsula/space_robotics_bench)] [[Website](https://andrejorsula.github.io/space_robotics_bench/)]
 - [POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation](https://arxiv.org/pdf/2309.12397), **2025**, `arXiv`, <u>University of Wisconsin-Madison</u>.
 - [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](https://arxiv.org/pdf/2507.07978), **2025**, `NeurIPS`, <u>BJTU, UT Austin, HKUST</u>.  [[Website](https://marsgenai.github.io/)] [[Code](https://github.com/loongfeili/Martian-World-Model)]
+- [Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers](https://arxiv.org/pdf/2601.04547), **2026**, `arXiv`, <u>TohokuUniversity</u>.
 
 #### UI and Digital Twin
 - [Design and evaluation of an UI for astronauts to control mobile robots on planetary surfaces](https://ieeexplore.ieee.org/abstract/document/10535929/), **2024**, `ICARSC`, <u>Julius-Maximilians-University</u>.
@@ -323,6 +326,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
