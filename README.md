@@ -95,6 +95,10 @@
 - [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
 - [Novel Robotic Fleet for Sample Recovery in Lunar Craters: A Concept of Operations](https://ieeexplore.ieee.org/document/11248963), **2025**, `TFR`, <u>Texas A&M University</u>.
 - [Design and Development of Modular Limbs for Reconfigurable Robots on the Moon](https://arxiv.org/pdf/2601.04541), **2026**, `arXiv`, <u>Tohoku University</u>.
+- [Design and Simulation of HyDroQuad: A Drone-Quadruped Hybrid for Lightweight Multi-Modal Locomotion](https://arc.aiaa.org/doi/abs/10.2514/6.2026-1119), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
+- [No Access Advanced Manufacturing and Materials of a Bio-mimetic Hoof for Space Robotics Applications](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2424), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
+- [Non-Prehensile Robotic Pushing Strategies for Sloped Terrain and Planetary Surface Conditions](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2245), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
+- 
 
 #### 3.2.2 Space Emulation Environment
 
@@ -268,6 +272,7 @@
 - [A Human–Robot Team Knowledge-Enhanced Large Language Model for Fault Analysis in Lunar Surface Exploration](https://www.mdpi.com/2226-4310/12/4/325), **2025**, `Aerospace`, <u>HUST</u>.
 - [Towards A Catalogue of Requirement Patterns for Space Robotic Missions](https://arxiv.org/pdf/2511.14438), **2025**, `arXiv`, <u>University of Manchester</u>.
 - [Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction](https://arxiv.org/pdf/2601.05491), **2026**, `arXiv`, <u>Tohoku University</u>.
+- [Autonomous Robotic Assembly for Planetary Missions: A Dual Arm LEGO Based Simulation Study](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2585), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
 
 ### 3.6. Dataset & Simulator
 
@@ -326,6 +331,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
