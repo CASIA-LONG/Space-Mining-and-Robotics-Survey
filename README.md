@@ -153,6 +153,7 @@
 - [Onboard Autonomous Health Assessment and Global Localization for the Mars Helicopter: Towards Multi-Flight Operations](https://ieeexplore.ieee.org/document/11215825), **2025**, `TFR`, <u>Caltech</u>.
 - [MarsLGPR: Mars Rover Localization with Ground Penetrating Radar](https://ieeexplore.ieee.org/document/11225894), **2025**, `TFR`, <u>University of Michigan</u>.
 - [Visual Localization and Topographic Mapping for Zhurong Rover in Tianwen-1 Mars Mission](https://ieeexplore.ieee.org/abstract/document/10878476), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Chinese Academy of Sciences, Beijing Aerospace Control Center</u>.
+- [DVD-MapAL: Deep Visual Feature-Driven Map-Assisted Localization for Planetary Spacecraft Exploration](https://ieeexplore.ieee.org/document/11348956), **2026**, `TFR`, <u>University of Chinese Academy of Sciences, Chinese Academy of Sciences</u>.
 
 #### 3.3.2 Odomentry & SLAM
 
@@ -177,6 +178,7 @@
 - [MAR-VO: A Match-and-Refine Framework for UAV’s Monocular Visual Odometry in Planetary Environments](https://ieeexplore.ieee.org/abstract/document/10854502), **2025**, `TGRS`, <u>Southeast University, Chinese Academy of Science</u>.
 - [Lo-SLAM: Lunar Target-oriented SLAM Using Object Identification, Relative Navigation and Multi-level Mapping](https://ieeexplore.ieee.org/abstract/document/10930639/), **2025**, `TGRS`, <u>University of Chinese Academy of Sciences, Chinese Academy of Science. Nanjing University of Aeronautics and Astronautics</u>.
 - [Visual–LiDAR SLAM for Rover Navigation in Planetary Environments With Plane Constraints and Global Optimization](https://ieeexplore.ieee.org/document/11231375/), **2025**, `EEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Tongji University</u>.
+- [Learning to Anchor Visual Odometry: KAN-Based Pose Regression for Planetary Landing](https://ieeexplore.ieee.org/document/11347533), **2026**, `RAL`, <u>University of Chinese Academy of Sciences, Chinese Academy of Sciences</u>.
 
 
 #### 3.3.3 Mapping
@@ -332,6 +334,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
