@@ -276,6 +276,7 @@
 - [Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction](https://arxiv.org/pdf/2601.05491), **2026**, `arXiv`, <u>Tohoku University</u>.
 - [Autonomous Robotic Assembly for Planetary Missions: A Dual Arm LEGO Based Simulation Study](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2585), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
 - [Lunar Rover Cargo Transport: Mission Concept and Field Test](https://ieeexplore.ieee.org/document/11343858), **2026**, `TFR`, <u>University of Toronto, MDA Space, Centre de Technologies Avancées</u>.
+- [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
 
 ### 3.6. Dataset & Simulator
 
@@ -334,6 +335,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
