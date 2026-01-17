@@ -154,6 +154,7 @@
 - [MarsLGPR: Mars Rover Localization with Ground Penetrating Radar](https://ieeexplore.ieee.org/document/11225894), **2025**, `TFR`, <u>University of Michigan</u>.
 - [Visual Localization and Topographic Mapping for Zhurong Rover in Tianwen-1 Mars Mission](https://ieeexplore.ieee.org/abstract/document/10878476), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Chinese Academy of Sciences, Beijing Aerospace Control Center</u>.
 - [DVD-MapAL: Deep Visual Feature-Driven Map-Assisted Localization for Planetary Spacecraft Exploration](https://ieeexplore.ieee.org/document/11348956), **2026**, `TFR`, <u>University of Chinese Academy of Sciences, Chinese Academy of Sciences</u>.
+- [Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground–Aerial Robotic Teams](https://arxiv.org/pdf/2601.09107), **2026**, `arXiv`, <u>University of Adelaide, Caltech</u>.
 
 #### 3.3.2 Odomentry & SLAM
 
@@ -335,6 +336,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
