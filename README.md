@@ -55,7 +55,8 @@
 - [Semantic terrain segmentation in the navigation vision of planetary rovers—A systematic literature review](https://www.mdpi.com/1424-8220/22/21/8393), **2022**, `Sensors,` <u>Cranfield University, Civil Aviation University of China</u>.
 - [Special spherical mobile robot for planetary surface exploration: A review](https://journals.sagepub.com/doi/abs/10.1177/17298806231162207), **2023,** `International Journal of Advanced Robotic Systems`, <u>Beijing University of Posts and Telecommunications, China Coal Research Institute, Beijing Normal University</u>.
 - [Exploring beyond Earth using space robotics](https://www.science.org/doi/abs/10.1126/scirobotics.adi6424), **2024**, `Science Robotics`, <u> Caltech, European Space Agency</u>.
-- [A Comprehensive Review of Path-Planning Algorithms for Planetary Rover Exploration](https://www.mdpi.com/2072-4292/17/11/1924), **2025**, `Remote Sensing`, <u>Deep Space Exploration Laboratory, China</u>. 
+- [A Comprehensive Review of Path-Planning Algorithms for Planetary Rover Exploration](https://www.mdpi.com/2072-4292/17/11/1924), **2025**, `Remote Sensing`, <u>Deep Space Exploration Laboratory, China</u>.
+- [Survey on AI-Enabled Computer Vision Technologies and Applications for Space Robotic Missions](https://onlinelibrary.wiley.com/doi/10.1002/rob.70150), **2026**, `JFR`, <u>GMV Innovating Solutions Sp. z o.o, Airspeed 2, University of Surre</u>.
 
 ### 3.2 Mechanisms & Control
 
@@ -336,6 +337,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
