@@ -292,18 +292,15 @@
 - [LabelMars: Creating an Extremely Large Martian Image Dataset Through Machine Learning](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1970.pdf), **2019**, `Lunar and Planetary Science Conference`, <u>The Open University</u>.
 - [The Canadian planetary emulation terrain energy-aware rover navigation dataset](https://journals.sagepub.com/doi/abs/10.1177/0278364920908922), **2020**, `IJRR`, <u>University of Toronto, University of Zagreb</u>.
 - [The Erfoud dataset: a comprehensive multi-camera and Lidar data collection for planetary exploration](https://hal.science/hal-02994401/), **2020**, `Symposium on Advanced Space Technologies in Robotics and Automation`, <u>European Space Agency</u>. 
-
 - [Ai4mars: A dataset for terrain-aware autonomous driving on mars](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Swan_AI4MARS_A_Dataset_for_Terrain-Aware_Autonomous_Driving_on_Mars_CVPRW_2021_paper.pdf), **2021**, `CVPRw`, <u>Caltech</u>. [[Dataset](https://data.nasa.gov/d/cykx-2qix)]
 - [The MADMAX data set for visual-inertial rover navigation on Mars](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22016), **2021**, `JFR`, <u>DLR</u>.
 - [Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset](https://ieeexplore.ieee.org/abstract/document/9813579/), **2022**, `RAL`, <u>DLR, TUM</u>.  [[Dataset](https://www.dlr.de/en/rm/research/publications-and-downloads/datasets/s3li-dataset)]
-
 - [LuSNAR: A Lunar Segmentation, Navigation and Reconstruction Dataset based on Muti-sensor for Autonomous Exploration](https://arxiv.org/pdf/2407.06512), **2024**, `arXiv`, <u>University of Chinese Academy of Sciences</u>.  [[Dataset](https://github.com/zqyu9/LuSNAR-dataset)]
 - [TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments](https://ieeexplore.ieee.org/abstract/document/10542164/), **2024**, `RAL`, <u>SUSTech, HKUST</u>. [[Dataset](https://tailrobot.github.io/)]
-
 - [SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes](https://arxiv.org/pdf/2506.22956), **2025**, `arXiv`, <u>University of Malaga, University of Luxembourg</u>. [[Dataset](https://github.com/spaceuma/spice-hl3)]
-
 - [Multi-Robot Decentralized Collaborative SLAM in Planetary Analogue Environments: Dataset, Challenges, and Lessons Learned](), **2025**, `TFR`, <u>Polytechnique Montréal</u>.  [[Dataset](https://ieee-dataport.org/documents/collaborative-simultaneous-localization-and-mapping-dataset-mars-analogue-terrain-inter)]
 - [Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments](https://arxiv.org/pdf/2404.13600), **2025**, `arXiv`, <u>SUSTech, HKUST</u>.  [[Dataset](https://tailrobot.github.io/)]
+- [The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments](https://arxiv.org/pdf/2601.19557), **2026**, `IEEE Aerospace Conference`, <u>DLR, KTH</u>.  [[Dataset](rmc.dlr.de/s3li_dataset)
 
 #### 3.6.2 Simulator
 
@@ -337,6 +334,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
