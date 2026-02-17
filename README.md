@@ -195,6 +195,7 @@
 - [3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots](https://arxiv.org/pdf/2511.05816), **2025**, `arXiv`, <u>Tohoku University</u>.
 - [A Stochastic Approach to Terrain Maps for Safe Lunar Landing](https://arxiv.org/pdf/2512.12058), **2025**, `arXiv`, <u>University of Michigan</u>.
 - [Federated Multi-Agent Mapping for Planetary Exploration](https://arxiv.org/pdf/2404.02289), **2025**, `arXiv`, <u>Technical University of Denmark, Caltech</u>.
+- [High-fidelity 3D reconstruction for planetary exploration](https://arxiv.org/pdf/2602.13909), **2026**, `arXiv`, <u>University of Malaga</u>.
 
 #### 3.3.4 Perception
 
@@ -334,6 +335,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
