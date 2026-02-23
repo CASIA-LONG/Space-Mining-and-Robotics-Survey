@@ -144,6 +144,7 @@
 - [基于多源影像的“祝融号”火星车高精度定位](https://www.spacejournal.cn/sktcxb/article/doi/10.15982/j.issn.2096-9287.2022.20210124), **2022**, `深空探测学报`, <u>北京航天飞行控制中心, 中国科学院空天信息创新研究院</u>.
 - [Terrain Aided Planetary UAV Localization Based on Geo-referencing](https://ieeexplore.ieee.org/abstract/document/9856688/), **2024**, `TGRS`, <u>Chinese Academy of Sciences</u>.
 - [JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10802040/), **2024**, `IROS`, <u>University of Chinese Academy of Sciences, Jilin University, Chinese Academy of Sciences</u>. [[Code](https://github.com/LuoXubo/JointLoc)]
+- [Censible: A Robust and Practical Global Localization Framework for Planetary Surface Missions](https://ieeexplore.ieee.org/abstract/document/10611697), **2024**, `ICRA`, <u>Caltech</u>.
 - [LunarLoc: Segment-Based Global Localization on the Moon](https://openreview.net/forum?id=SJ7vgKZo9Q), **2025**, `RSSw`, <u>MIT</u>. [[Code](https://github.com/mit-acl/lunarloc-data)]
 - [A Map-based Localization System for Ingenuity using Deep Image Matching](https://ieeexplore.ieee.org/abstract/document/11176869/), **2025**, `TFR`, <u>Caltech, University of Luxembourg</u>.
 - [AI-Enabled Crater-Based Navigation for Lunar Mapping](https://arxiv.org/pdf/2509.20748), **2025**, `arXiv`, <u>The University of Adelaide</u>.
@@ -156,6 +157,7 @@
 - [Visual Localization and Topographic Mapping for Zhurong Rover in Tianwen-1 Mars Mission](https://ieeexplore.ieee.org/abstract/document/10878476), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Chinese Academy of Sciences, Beijing Aerospace Control Center</u>.
 - [DVD-MapAL: Deep Visual Feature-Driven Map-Assisted Localization for Planetary Spacecraft Exploration](https://ieeexplore.ieee.org/document/11348956), **2026**, `TFR`, <u>University of Chinese Academy of Sciences, Chinese Academy of Sciences</u>.
 - [Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground–Aerial Robotic Teams](https://arxiv.org/pdf/2601.09107), **2026**, `arXiv`, <u>University of Adelaide, Caltech</u>.
+
 
 #### 3.3.2 Odomentry & SLAM
 
@@ -335,6 +337,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
