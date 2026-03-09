@@ -100,6 +100,7 @@
 - [No Access Advanced Manufacturing and Materials of a Bio-mimetic Hoof for Space Robotics Applications](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2424), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
 - [Non-Prehensile Robotic Pushing Strategies for Sloped Terrain and Planetary Surface Conditions](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2245), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
 - [Modular Isoperimetric Soft Robotic Truss for Lunar Applications](https://arxiv.org/pdf/2602.02915), **2026**, `arXiv`, <u>Brigham Young University</u>
+- [Underactuated multimodal jumping robot for extraterrestrial exploration](https://arxiv.org/pdf/2603.06525), **2026**, `ICRA`, <u>UIUC</u>
 
 #### 3.2.2 Space Emulation Environment
 
@@ -337,6 +338,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
