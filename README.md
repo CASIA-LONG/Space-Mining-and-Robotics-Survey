@@ -1,10 +1,6 @@
 # Space-Mining-and-Robotics-Survey
 
-*Note:* 
-
-- *1.This primarily covers work related to planetary robotics (e.g., Mars rovers and lunar rovers), and may not include work on in-orbit space robots;*
-
-- *2.If a paper has too many author affiliations, we will only list the first three affiliations.*
+*Note: If a paper has too many author affiliations, we will only list the first three affiliations.*
 
 ## 1 Space Mining Paper List
 
@@ -339,6 +335,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
