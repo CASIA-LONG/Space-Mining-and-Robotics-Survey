@@ -1,4 +1,4 @@
-# Space-Mining-and-Robotics-Survey
+# Space-Mining-With-Robot-Survey
 
 *Note: If a paper has too many author affiliations, we will only list the first three affiliations.*
 
@@ -335,6 +335,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
