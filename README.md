@@ -252,6 +252,7 @@
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101), **2025**, `arXiv`, <u>USC</u>.
 - [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984), **2025**, `arXiv`, <u>Inha University, Kyung Hee University</u>.
+- [Proprioceptive Safe Active Navigation and Exploration for Planetary Environments](https://arxiv.org/pdf/2603.08905), **2026**, `arXiv`, <u>Georgia Institute of Technology, University of Southern California</u>.
 
 
 ###  3.5 Operation and Tasks
@@ -338,6 +339,7 @@
 ## 5 Space Mining Company
 
 ## 6 Space Mining Policy
+
 
 
 
