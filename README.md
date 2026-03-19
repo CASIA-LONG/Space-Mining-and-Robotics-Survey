@@ -154,6 +154,7 @@
 - [Visual Localization and Topographic Mapping for Zhurong Rover in Tianwen-1 Mars Mission](https://ieeexplore.ieee.org/abstract/document/10878476), **2025**, `IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing`, <u>Chinese Academy of Sciences, Beijing Aerospace Control Center</u>.
 - [DVD-MapAL: Deep Visual Feature-Driven Map-Assisted Localization for Planetary Spacecraft Exploration](https://ieeexplore.ieee.org/document/11348956), **2026**, `TFR`, <u>University of Chinese Academy of Sciences, Chinese Academy of Sciences</u>.
 - [Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground–Aerial Robotic Teams](https://arxiv.org/pdf/2601.09107), **2026**, `arXiv`, <u>University of Adelaide, Caltech</u>.
+- [Visual SLAM with DEM Anchoring for Lunar Surface Navigation](https://arxiv.org/pdf/2603.17229), **2026**, `IEEE Aerospace Conference`, <u>Stanford University</u>.
 
 
 #### 3.3.2 Odomentry & SLAM
@@ -228,6 +229,7 @@
 - [Autonomous cooperative visual navigation for planetary exploration robots](https://ieeexplore.ieee.org/abstract/document/9561767), **2021**, `ICRA`, <u>City University of London, Sirjan University of Technology</u>.
 - [DROID: Learning from Offline Heterogeneous Demonstrations via Reward-Policy Distillation](https://ieeexplore.ieee.org/abstract/document/9561767), **2021**, `ICRA`, <u>City University of London, Sirjan University of Technology</u>.
 - [Learning-based end-to-end navigation for planetary rovers considering non-geometric hazards](https://ieeexplore.ieee.org/abstract/document/10138604/), **2023**, `RAL`, <u>HIT</u>.
+- [Neural Radiance Maps for Extraterrestrial Navigation and Path Planning](https://arxiv.org/pdf/2603.17236), **2023**, `ION GNSS+ Conference`, <u>Stanford University</u>.
 - [Traversing Mars: Cooperative Informative Path Planning to Efficiently Navigate Unknown Scenes](https://ieeexplore.ieee.org/abstract/document/10783051/), **2024**, `RAL`, <u>ETH, DLR, MIT</u>. [[Code](https://github.com/ethz-asl/scouting-ipp)]
 - [RAPF: Efficient path planning for lunar microrovers](https://ieeexplore.ieee.org/abstract/document/10688117/), **2024**, `iSpaRo`, <u>Delft University of Technology, EPFL</u>.
 - [Kernel-based Diffusion Approximated Markov Decision Processes for Autonomous Navigation and Control on Unstructured Terrains](https://journals.sagepub.com/doi/full/10.1177/02783649231225977), **2024**, `IJRR`, <u> Indiana University Bloomington, Expedia Group, Army Research Laboratory</u>.
@@ -239,6 +241,8 @@
 - [Enhanced Autonomous Navigation on the Perseverance Mars Rover](https://ieeexplore.ieee.org/document/11265757), **2025**, `TFR`, <u>Caltech</u>.
 - [CRESCENT: Collision-Free Highly-Constrained Trajectory Optimization for Driving on the Moon](https://ieeexplore.ieee.org/document/11272447), **2025**, `TFR`, <u>Caltech, Johns Hopkins University, UCLA</u>.
 - [Planetary Terrain Datasets and Benchmarks for Rover Path Planning](https://arxiv.org/pdf/2512.21438), **2025**, `arXiv`, <u>Luleå University of Technology</u>. [[Code](https://github.com/mchancan/PlanetaryPathBench)]
+
+
 
 #### 3.4.2 Exploration
 
@@ -280,6 +284,7 @@
 - [Autonomous Robotic Assembly for Planetary Missions: A Dual Arm LEGO Based Simulation Study](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2585), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
 - [Lunar Rover Cargo Transport: Mission Concept and Field Test](https://ieeexplore.ieee.org/document/11343858), **2026**, `TFR`, <u>University of Toronto, MDA Space, Centre de Technologies Avancées</u>.
 - [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
+- [Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge](https://arxiv.org/pdf/2603.17232), **2025**, `ION GNSS+ Conference`, <u>Stanford University</u>.
 
 ### 3.6. Dataset & Simulator
 
