@@ -215,6 +215,7 @@
 - [Fast Vision in the Dark: A Case for Single-Photon Imaging in Planetary Navigation](https://arxiv.org/pdf/2510.10597) **2025**, `ASTRA`, <u>University of Malaga</u>.
 - [Space-LLaVA: a Vision-Language Model Adapted to Extraterrestrial Applications](https://arxiv.org/pdf/2408.05924) **2025**, `arXiv`, <u>Stanford University</u>.
 - [火星表面石块的卷积自注意力网络识别方法](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20255015/) **2025**, `遥感学报`, <u>北京信息科技大学, 中国科学院空天信息创新研究院,  中国科学院大学</u>.
+- [Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting](https://arxiv.org/pdf/2603.18218), **2026**, `arXiv`, <u>Stanford University</u>.
 
 
 ### 3.4 Planning & Navigation
