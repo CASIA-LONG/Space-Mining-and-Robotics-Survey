@@ -288,6 +288,7 @@
 - [Lunar Rover Cargo Transport: Mission Concept and Field Test](https://ieeexplore.ieee.org/document/11343858), **2026**, `TFR`, <u>University of Toronto, MDA Space, Centre de Technologies Avancées</u>.
 - [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
 - [Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge](https://arxiv.org/pdf/2603.17232), **2025**, `ION GNSS+ Conference`, <u>Stanford University</u>.
+- [Long-Reach Robotic Cleaning for Lunar Solar Arrays](https://arxiv.org/pdf/2603.29240), **2026**, `arXiv`, <u>Stanford University</u>.
 
 ### 3.6. Dataset & Simulator
 
