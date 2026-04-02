@@ -257,6 +257,9 @@
 - [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984), **2025**, `arXiv`, <u>Inha University, Kyung Hee University</u>.
 - [Proprioceptive Safe Active Navigation and Exploration for Planetary Environments](https://arxiv.org/pdf/2603.08905), **2026**, `arXiv`, <u>Georgia Institute of Technology, University of Southern California</u>.
 
+### 3.4.3 Remote Sensing
+- [Sub-metre Lunar DEM Generation and Validation from Chandrayaan-2 OHRC Multi-View Imagery Using Open-Source Photogrammetry](https://arxiv.org/pdf/2604.01032), **2026**, `arXiv`, <u>Manipal University Jaipur, Indian Space Research Organisation, NASA</u>.
+
 
 ###  3.5 Operation and Tasks
 
@@ -289,6 +292,8 @@
 - [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
 - [Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge](https://arxiv.org/pdf/2603.17232), **2025**, `ION GNSS+ Conference`, <u>Stanford University</u>.
 - [Long-Reach Robotic Cleaning for Lunar Solar Arrays](https://arxiv.org/pdf/2603.29240), **2026**, `arXiv`, <u>Stanford University</u>.
+- [Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO](https://arxiv.org/pdf/2604.01213), **2026**, `arXiv`, <u>ETH</u>.
+
 
 ### 3.6. Dataset & Simulator
 
