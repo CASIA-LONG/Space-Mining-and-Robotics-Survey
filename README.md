@@ -10,6 +10,7 @@
 - [深空物质资源利用现状与展望](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppzsOO8WXQDxZ6h0MkRaE9wIYeEOslHMHs9kZAbeoADec82RaF4AbIbD-_F-ncCtFYXdFIIdAmbk2p_NKUJVhzIiYiTb6LxAbqKqcJvRQRb5ILu40oIc6yJC8k2S8hz1vjh63UGYarQjha-F_YBh4Tj6HbUwh4a_nZyeaf8o_6P2T3g==&uniplatform=NZKPT&language=CHS), **2023**, `科技导报`, <u>中国深空探测实验室</u>.
 - [从地球到月球：采矿机器人关键技术研究与展望](http://dianda.cqvip.com/Qikan/Article/Detail?id=7202480746), **2025**, `中南大学学报(自然科学版)`, <u>中南大学</u>.
 - [星表规模化资源采集机器人研究进展及发展趋势](https://robot.sia.cn/cn/article/pdf/preview/10.13973/j.cnki.robot.250062.pdf), **2025**, `机器人`, <u>北京航空航天大学, 广东工业大学, 中国空间技术研究院</u>.
+- [A framework for the economic evaluation of lunar mining projects](https://link.springer.com/article/10.1007/s44461-026-00008-9), **2026**, `Space and Planetary Resources`, <u>University of Zurich, ETH</u>.
 
 ## 2 Space Robot Discover, Progress, and Plan
 
