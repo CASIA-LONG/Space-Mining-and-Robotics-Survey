@@ -221,6 +221,7 @@
 - [火星表面石块的卷积自注意力网络识别方法](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20255015/) **2025**, `遥感学报`, <u>北京信息科技大学, 中国科学院空天信息创新研究院,  中国科学院大学</u>.
 - [Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting](https://arxiv.org/pdf/2603.18218), **2026**, `arXiv`, <u>Stanford University</u>.
 - [MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data](https://arxiv.org/pdf/2604.00682), **2026**, `MMSys`, <u>Université de Toulouse, NUS, IRL2955</u>.
+- [LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation](https://arxiv.org/pdf/2604.09352), **2026**, `CVPRw`, <u>ROMER Middle East Technical University</u>. [[Website](https://metulumon.github.io/)]
 
 
 ### 3.4 Planning & Navigation
