@@ -354,9 +354,13 @@
 
 ## 6 Space Mining Policy
 
+# Citation
 
+If you find this repository useful, please consider citing this list:
 
-
+```
+todo list
+```
 
 
 
