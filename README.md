@@ -352,6 +352,23 @@
 
 ## 5 Space Mining Company
 
+
+| Company | Founded | Location | Focus Areas | Official Link |
+| :--- | :---: | :---: | :--- | :--- |
+| **Astrobotic Technology** | 2007 | USA | Lunar robotics, payload delivery, ISRU demonstration rovers | [Link](https://www.astrobotic.com/) |
+| **Planetary Resources** | 2009 | USA | Asteroid prospecting drones, robotic resource mapping | [Link](https://en.wikipedia.org/wiki/Planetary_Resources) |
+| **ispace Technologies** | 2010 | Japan | Lunar resource exploration, water extraction, robotic landers | [Link](https://ispace-inc.com/) |
+| **Moon Express** | 2010 | USA | Robotic lunar mining and sample return missions | [Link](http://www.moonexpress.com/) |
+| **Deep Space Industries** | 2013 | USA | In-space manufacturing and mining tech | [Link](https://en.wikipedia.org/wiki/Deep_Space_Industries) |
+| **Intuitive Machines** | 2013 | USA | Lunar payload delivery, robotic landers, lunar data | [Link](https://www.intuitivemachines.com/) |
+| **TransAstra** | 2015 | USA | Optical mining systems, robotic capture, resource utilization | [Link](https://www.transastra.com/) |
+| **Asteroid Mining Corp** | 2016 | UK | Robotic asteroid explorers, on-site extraction | [Link](https://asteroidminingcorporation.co.uk/) |
+| **OffWorld** | 2017 | USA | Autonomous mining robots for space and Earth minerals | [Link](https://www.offworld.ai/) |
+| **Origin Space** | 2019 | China | Asteroid sampling and space resource observation | [Link](http://www.origin-space.com/) |
+| **Interlune** | 2020 | USA | Lunar Helium-3 harvesting, regolith processing | [Link](https://www.interlune.pro/) |
+| **Orbital Mining Corp** | 2022 | USA | Lunar regolith harvesting, robotic thermal processing | [Link](https://orbitalmining.com/) |
+| **AstroForge** | 2022 | USA | Asteroid mining, in-space resource processing | [Link](https://www.astroforge.io/) |
+
 ## 6 Space Mining Policy
 
 # Citation
