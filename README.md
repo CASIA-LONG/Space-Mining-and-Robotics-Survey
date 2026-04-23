@@ -349,6 +349,8 @@
 | 3     | ESA-ESRIC Space Resources challenge           | 2021 | Real-world scenario: multiple robots collaboratively collecting resources | https://src.esa.int/                                         |
 | 4     | Lunar Autonomy Challenge                      | 2024 | Simulated scenario: In an unknown environment, identify obstacles, explore, and create a map. | https://lunar-autonomy-challenge.jhuapl.edu/                 |
 | 5     | Lunabotics Challenge                          | 2025 | Real-world scenario: Design a lunar robot for bulldozing work. | https://www.nasa.gov/learning-resources/lunabotics-challenge/ |
+| 6     | Australian Rover Challenge                    | 2026 | Real-world scenario: Semi-autonomous rovers navigate simulated lunar terrain for resource sensing, extraction, and delivery. | https://www.adelaide.edu.au/extres/australian-rover-challenge |
+
 
 ## 5 Space Mining Company
 
