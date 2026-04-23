@@ -131,6 +131,7 @@
 - [Mars Traversability Prediction: A Multi-modal Self-supervised Approach for Costmap Generation](https://arxiv.org/pdf/2509.11082), **2025**, `arXiv`, <u>HIT</u>.
 - [Learning Rock Pushability on Rough Planetary Terrain](https://arxiv.org/pdf/2505.09833), **2025**, `IROS`, <u>Embry-Riddle Aeronautical University</u>.
 - [An adaptive hierarchical control framework for quadrupedal robots in planetary exploration](https://arxiv.org/pdf/2510.17249), **2025**, `arXiv`, <u>DFKI, German Aerospace Center, University of Bremen</u>.
+- [Closed-Form Analytical Modeling of Sweep-Spin Grouser Wheels Traversing Granular Media for Planetary Rovers](https://ieeexplore.ieee.org/document/11477886), **2026**, `T-Mech`, <u>HIT, Beijing Research Institute of Automation for Machinery Industry Company, Minzu University of China</u>.
 
 ### 3.3 Localization, Mapping & Perception
 
