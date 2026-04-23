@@ -28,6 +28,12 @@
 
 - [Autonomous surface sampling for the Europa Lander mission concept](https://www.science.org/doi/abs/10.1126/scirobotics.adi5582), **2025**, `Science Robotics`, <u>Caltech</u>.
 
+### 2.3 Soil Sampling
+- [Path to autonomous soil sampling and analysis by ground-based robots](https://www.sciencedirect.com/science/article/pii/S0301479724011162), **2026**, `Journal of Environmental Management`, <u>Carnegie Mellon University, Chevron Technology Center</u>.
+
+
+### 2.4
+
 ## 3 Space Robot Paper List
 
 
