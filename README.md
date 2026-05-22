@@ -44,8 +44,6 @@
 ### Landing
 - 嫦娥六号着陆点高精度视觉定位,
 - 基于多源影像的探测器月面着陆点定位与精度验证
-- 
-
 
 ### 3.1 Survey Paper
 
@@ -62,6 +60,7 @@
 - [Exploring beyond Earth using space robotics](https://www.science.org/doi/abs/10.1126/scirobotics.adi6424), **2024**, `Science Robotics`, <u> Caltech, European Space Agency</u>.
 - [A Comprehensive Review of Path-Planning Algorithms for Planetary Rover Exploration](https://www.mdpi.com/2072-4292/17/11/1924), **2025**, `Remote Sensing`, <u>Deep Space Exploration Laboratory, China</u>.
 - [Survey on AI-Enabled Computer Vision Technologies and Applications for Space Robotic Missions](https://onlinelibrary.wiley.com/doi/10.1002/rob.70150), **2026**, `JFR`, <u>GMV Innovating Solutions Sp. z o.o, Airspeed 2, University of Surre</u>.
+- [The Evolution of Autonomous Systems for Planetary Cave Exploration: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.70233), **2026**, `JFR`, <u> University of Glasgow</u>.
 
 ### 3.2 Mechanisms & Control
 
@@ -341,7 +340,8 @@
 - [Space Robotics Bench: Robot Learning Beyond Earth](https://arxiv.org/pdf/2509.23328), **2025**, `arXiv`, <u>University of Luxembourg</u>. [[Code](https://github.com/AndrejOrsula/space_robotics_bench)] [[Website](https://andrejorsula.github.io/space_robotics_bench/)]
 - [POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation](https://arxiv.org/pdf/2309.12397), **2025**, `arXiv`, <u>University of Wisconsin-Madison</u>.
 - [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](https://arxiv.org/pdf/2507.07978), **2025**, `NeurIPS`, <u>BJTU, UT Austin, HKUST</u>.  [[Website](https://marsgenai.github.io/)] [[Code](https://github.com/loongfeili/Martian-World-Model)]
-- [Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers](https://arxiv.org/pdf/2601.04547), **2026**, `arXiv`, <u>TohokuUniversity</u>.
+- [Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers](https://arxiv.org/pdf/2601.04547), **2026**, `arXiv`, <u>Tohoku University</u>.
+- [MARSIM: An End-to-End Clutter Simulation System for Global Mars Subsurface Sounding](https://ieeexplore.ieee.org/abstract/document/11520896), **2026**, `TGRS`, <u>Fudan University</u>.
 
 #### UI and Digital Twin
 - [Design and evaluation of an UI for astronauts to control mobile robots on planetary surfaces](https://ieeexplore.ieee.org/abstract/document/10535929/), **2024**, `ICARSC`, <u>Julius-Maximilians-University</u>.
