@@ -106,6 +106,7 @@
 - [Modular Isoperimetric Soft Robotic Truss for Lunar Applications](https://arxiv.org/pdf/2602.02915), **2026**, `arXiv`, <u>Brigham Young University</u>
 - [Underactuated multimodal jumping robot for extraterrestrial exploration](https://arxiv.org/pdf/2603.06525), **2026**, `ICRA`, <u>UIUC</u>
 - [MR_Go: A Magnetorheological Quadruped Robot for Energy-Efficient, High-Payload, and Impact-Tolerant Planetary Exploration](https://ieeexplore.ieee.org/document/11447398), **2026**, `RAL`, <u>University of Science and Technology of China, Anhui University</u>
+- [Towards Low-Gravity Planetary Exploration using Reinforcement Learning for Walking, Jumping, and In-flight Attitude Control](https://arxiv.org/pdf/2605.24643), **2026**, `arXiv`, <u>NTNU</u>. [[Website](https://ntnu-arl.github.io/olympus/)]
 
 #### 3.2.2 Space Emulation Environment
 
