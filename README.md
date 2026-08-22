@@ -74,9 +74,6 @@
 
 
 
-
-
-
 ## 1 Paper List
 
 *Note: If a paper has too many author affiliations, we will only list the first three affiliations.*
@@ -92,20 +89,10 @@
 
 ### 2 Exploration: Level B – Precise Exploration & Resource Detection via Robots
 
-
-
-- [Mars exploration rover mobility development](https://ieeexplore.ieee.org/abstract/document/1638012/), 2006, RAM, <u>NASA, Caltech</u>.
-- [Surface characteristics of the zhurong mars rover traverse at utopia planitia](https://www.nature.com/articles/s41561-022-00905-6), **2022**, `Nature Geoscience`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>. 
-- [A 2-year locomotive exploration and scientific investigation of the lunar farside by the yutu-2 rover](https://www.science.org/doi/abs/10.1126/scirobotics.abj6660), **2022**, `Science Robotics`,<u>HIT, Beijing Aerospace Control Center, Ryerson University</u>. 
-- [Autonomous robotics is driving Perseverance rover's progress on Mars](https://www.science.org/doi/full/10.1126/scirobotics.adi3099), **2023**, `Science Robotics`, <u>Caltech</u>.
-- [Mars’ surface radiation environment measured with the Mars Science Laboratory’s Curiosity rover](https://www.science.org/doi/abs/10.1126/science.1244797), **2023**, `Science`, <u>Southwest Research Institute, Christian Albrechts Universit, NASA</u>.
-- [Lunar rock investigation and tri-aspect characterization of lunar farside regolith by a digital twin](https://www.nature.com/articles/s41467-024-46233-8), **2024**, `Nature Communications`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>.
-
-### 3 Sampling: Level C – Small-Scale Sampling via Single Robot
-
-#### 3.2.1 Robot and Mechanisms
+#### 2.1 Robot and Mechanisms
 
 - [What really happened on mars rover pathfinder](https://cse.buffalo.edu/~bina/cse321/fall2019/Lectures/MarsRover.pdf), **1997**, `The Risks Digest`.
+- [Mars exploration rover mobility development](https://ieeexplore.ieee.org/abstract/document/1638012/), 2006, RAM, <u>NASA, Caltech</u>.
 - [Experimental study on autonomous burrowing screw robot for subsurface exploration on the Moon](https://ieeexplore.ieee.org/abstract/document/4650693/), **2008**, `IROS`, <u>JAXA</u>.
 - [Development of the six-legged walking and climbing robot SpaceClimber](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21418), **2012**, `JFR`, <u>DFKI</u>.
 - [Development and field testing of the FootFall planning system for the ATHLETE robots](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20410), **2012**, `JFR`, <u>NASA, Stanford University, Caltech</u>.
@@ -147,12 +134,10 @@
 - [MR_Go: A Magnetorheological Quadruped Robot for Energy-Efficient, High-Payload, and Impact-Tolerant Planetary Exploration](https://ieeexplore.ieee.org/document/11447398), **2026**, `RAL`, <u>University of Science and Technology of China, Anhui University</u>
 - [Towards Low-Gravity Planetary Exploration using Reinforcement Learning for Walking, Jumping, and In-flight Attitude Control](https://arxiv.org/pdf/2605.24643), **2026**, `arXiv`, <u>NTNU</u>. [[Website](https://ntnu-arl.github.io/olympus/)]
 
-
-#### 3.2.3 Sensors
-
+#### 2.2 Sensors
 - [PHALANX: Expendable projectile sensor networks for planetary exploration](https://ieeexplore.ieee.org/abstract/document/9172595), **2020**, `IEEE Aerospace Conference`, <u>NASA</u>.
 
-#### 3.2.4 Control
+#### 2.3 Control
 
 - [Real-time assessment of robot performance during remote exploration operations](https://ieeexplore.ieee.org/abstract/document/4839310/), **2009**, `IEEE Aerospace conference`, <u>TRAC Laboratories, Inc., NASA, Space and Naval Warfare Systems Command, USA</u>.
 - [Traveling performance evaluation of planetary rovers on loose soil](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21405), **2012**, `JFR`  <u>Tohoku University</u>.
@@ -174,9 +159,7 @@
 - [An adaptive hierarchical control framework for quadrupedal robots in planetary exploration](https://arxiv.org/pdf/2510.17249), **2025**, `arXiv`, <u>DFKI, German Aerospace Center, University of Bremen</u>.
 - [Closed-Form Analytical Modeling of Sweep-Spin Grouser Wheels Traversing Granular Media for Planetary Rovers](https://ieeexplore.ieee.org/document/11477886), **2026**, `T-Mech`, <u>HIT, Beijing Research Institute of Automation for Machinery Industry Company, Minzu University of China</u>.
 
-### 3.3 Localization, Mapping & Perception
-
-#### 3.3.1 Global Localization
+#### 2.4 Global Localization
 
 - [Field testing of visual odometry aided by a sun sensor and inclinometer](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21412), **2012**, `JFR`, <u>University of Toronto, Ryerson University</u>.
 - [Planetary rover localization within orbital maps](https://ieeexplore.ieee.org/abstract/document/7025326/), **2014**, `ICIP`, <u>University Nevada</u>.
@@ -203,7 +186,7 @@
 - [Visual SLAM with DEM Anchoring for Lunar Surface Navigation](https://arxiv.org/pdf/2603.17229), **2026**, `IEEE Aerospace Conference`, <u>Stanford University</u>.
 
 
-#### 3.3.2 Odomentry & SLAM
+#### 2.5 Odomentry & SLAM
 
 - [Three-dimensional SLAM for mapping planetary work site environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21403), **2012**, `JFR`, <u>University of Toronto, Canadian Space Agency</u>.
 - [Field trial results of planetary rover visual motion estimation in Mars analogue terrain](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21409), **2012**, `JFR`, <u>MDA Corporation, Canadian Space Agency</u>.
@@ -229,10 +212,12 @@
 - [Learning to Anchor Visual Odometry: KAN-Based Pose Regression for Planetary Landing](https://ieeexplore.ieee.org/document/11347533), **2026**, `RAL`, <u>University of Chinese Academy of Sciences, Chinese Academy of Sciences</u>.
 
 
-#### 3.3.3 Mapping
+#### 2.6 Mapping
 
 - [Mapping for Planetary Rovers from Terramechanics Perspective](https://ieeexplore.ieee.org/abstract/document/8967984/), **2019**, `IROS`, <u>HIT</u>.
 - [Semantic mapping in unstructured environments: Toward autonomous localization of planetary robotic explorers](https://russ-stuff.com/wp-content/uploads/2022/01/IEEE_AERO___Semantic_Segmentation_TRN_on_Mars.pdf), **2022**, `IEEE Aerospace Conference`, <u>NASA</u>.
+- [Surface characteristics of the zhurong mars rover traverse at utopia planitia](https://www.nature.com/articles/s41561-022-00905-6), **2022**, `Nature Geoscience`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>.
+- [A 2-year locomotive exploration and scientific investigation of the lunar farside by the yutu-2 rover](https://www.science.org/doi/abs/10.1126/scirobotics.abj6660), **2022**, `Science Robotics`,<u>HIT, Beijing Aerospace Control Center, Ryerson University</u>. 
 - [REALMS: Resilient exploration and lunar mapping system](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1127496/full), **2023**, `Frontiers in Robotics and AI`, <u>University of Luxembourg</u>.
 - [A lunar reconnaissance drone for cooperative exploration and high-resolution mapping of extreme locations](https://www.sciencedirect.com/science/article/pii/S009457652400064X), **2024**, `Acta Astronautica`, <u>EPFL</u>.
 - [Analyzing the Effectiveness of Neural Radiance Fields for Geometric Modeling of Lunar Terrain](https://ieeexplore.ieee.org/abstract/document/10521163), **2024**, `IEEE Aerospace Conference`, <u>CMU, NASA</u>.
@@ -243,7 +228,7 @@
 - [Federated Multi-Agent Mapping for Planetary Exploration](https://arxiv.org/pdf/2404.02289), **2025**, `arXiv`, <u>Technical University of Denmark, Caltech</u>.
 - [High-fidelity 3D reconstruction for planetary exploration](https://arxiv.org/pdf/2602.13909), **2026**, `ICRA`, <u>University of Malaga</u>.
 
-#### 3.3.4 Perception
+#### 2.6 Perception
 
 - [Self-supervised terrain classification for planetary surface exploration rovers](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21408), 2012, `JFR`, <u>MIT</u>.
 - [Vision-based absolute navigation for descent and landing](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21406), 2012, `JFR`, <u>University of Toulouse</u>.
@@ -253,7 +238,9 @@
 - [Structured light-based hazard detection for planetary surface navigation](https://ieeexplore.ieee.org/abstract/document/8206090/), **2017**, `IROS`, <u>Stinger Ghaffarian Technologies, NASA</u>.
 - [Sky and ground segmentation in the navigation visions of the planetary rovers](https://www.mdpi.com/1424-8220/21/21/6996), **2021**, `Sensors`, <u>Cranfield University</u>.
 - [AI-enabled Computer Vision Framework for Automated Knowledge Extraction in Planetary Rover Operations](https://www.researchgate.net/profile/Steven-Kay-2/publication/378486871_AI-Enabled_Computer_Vision_Framework_for_Automated_Knowledge_Extraction_in_Planetary_Rover_Operations/links/65dc8578adf2362b63592698/AI-Enabled-Computer-Vision-Framework-for-Automated-Knowledge-Extraction-in-Planetary-Rover-Operations.pdf), **2023**, `ASTRA`, <u>GMV NSL Ltd,  GMV Innovating Solutions Sp. z o.o., ul, University of Surrey</u>.
+- [Mars’ surface radiation environment measured with the Mars Science Laboratory’s Curiosity rover](https://www.science.org/doi/abs/10.1126/science.1244797), **2023**, `Science`, <u>Southwest Research Institute, Christian Albrechts Universit, NASA</u>.
 - [Deep Learning based Semantic Segmentation for Mars Rover Terrain Classification](https://ieeexplore.ieee.org/abstract/document/10687827/), **2024**, `iSpaRo`, <u>KCL, University of Surrey, GMV NSL Ltd</u>.
+- [Lunar rock investigation and tri-aspect characterization of lunar farside regolith by a digital twin](https://www.nature.com/articles/s41467-024-46233-8), **2024**, `Nature Communications`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>.
 - [Covariance Based Terrain Mapping for Autonomous Mobile Robots](https://ieeexplore.ieee.org/abstract/document/10610010/), **2024**, `ICRA`, <u>Julius-Maximilians-University Würzburg</u>.
 - [Instance Segmentation-Based Hazard Detectionwith Lunar South Pole Lighting](https://ieeexplore.ieee.org/abstract/document/11127967/), **2025**, `ICRA`, <u>NASA, The University of Texas at Arlington</u>.
 - [OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery](https://arxiv.org/pdf/2508.00580?), **2025**, `arXiv`, <u>University of Luxembourg, University of Malaga</u>.
@@ -266,9 +253,8 @@
 - [LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation](https://arxiv.org/pdf/2604.09352), **2026**, `CVPRw`, <u>ROMER Middle East Technical University</u>. [[Website](https://metulumon.github.io/)]
 
 
-### 3.4 Planning & Navigation
 
-#### 3.4.1 Planning & Navigation
+#### 2.7 Planning & Navigation
 
 - [Planning using a Network of Reusable Paths: A Physical Embodiment of a Rapidly Exploring Random Tree](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21474), **2013**, `JFR`, <u>University of Toronto</u>.
 - [An Open Research Facility for Vision-Based Navigation Onboard the International Space Station](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21622), 2015, `JFR` <u>MIT</u>.
@@ -277,6 +263,7 @@
 - [Rough terrain navigation for legged robots using reachability planning and template learning](https://proceedings.mlr.press/v229/jayanthi23a/jayanthi23a.pdf/), **2023**, `CoRL`, <u>Georgia Institute of Technology, Caltech</u>.
 - [Autonomous cooperative visual navigation for planetary exploration robots](https://ieeexplore.ieee.org/abstract/document/9561767), **2021**, `ICRA`, <u>City University of London, Sirjan University of Technology</u>.
 - [DROID: Learning from Offline Heterogeneous Demonstrations via Reward-Policy Distillation](https://ieeexplore.ieee.org/abstract/document/9561767), **2021**, `ICRA`, <u>City University of London, Sirjan University of Technology</u>.
+- [Autonomous robotics is driving Perseverance rover's progress on Mars](https://www.science.org/doi/full/10.1126/scirobotics.adi3099), **2023**, `Science Robotics`, <u>Caltech</u>.
 - [Learning-based end-to-end navigation for planetary rovers considering non-geometric hazards](https://ieeexplore.ieee.org/abstract/document/10138604/), **2023**, `RAL`, <u>HIT</u>.
 - [Neural Radiance Maps for Extraterrestrial Navigation and Path Planning](https://arxiv.org/pdf/2603.17236), **2023**, `ION GNSS+ Conference`, <u>Stanford University</u>.
 - [Traversing Mars: Cooperative Informative Path Planning to Efficiently Navigate Unknown Scenes](https://ieeexplore.ieee.org/abstract/document/10783051/), **2024**, `RAL`, <u>ETH, DLR, MIT</u>. [[Code](https://github.com/ethz-asl/scouting-ipp)]
@@ -293,14 +280,39 @@
 
 
 
-#### 3.4.2 Exploration
+#### 2.8 Exploration
 
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101), **2025**, `arXiv`, <u>USC</u>.
 - [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984), **2025**, `arXiv`, <u>Inha University, Kyung Hee University</u>.
 - [Proprioceptive Safe Active Navigation and Exploration for Planetary Environments](https://arxiv.org/pdf/2603.08905), **2026**, `arXiv`, <u>Georgia Institute of Technology, University of Southern California</u>.
 
-#### 2.3 Soil Sampling
+#### 2.9 Operation and Tasks
+
+- [Planthaber, others, Lunares: Lunar crater exploration with heterogeneous multi robot systems](https://link.springer.com/article/10.1007/s11370-010-0081-4), **2011**, `Intelligent Service Robotics`, <u>DFKI, EADS Astrium GmbH, OHB System AG</u>.
+- [Autonomous Go-and-Touch Exploration (AGATE)](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21401), **2012**, `JFR`, <u>Yoder Software, Ohio Northern University</u>
+- [The ESA Lunar Robotics Challenge: Simulating operations at the lunar south pole](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20429), **2012**, `JFR`, <u>University of Pisa, Jacobs University, University of Surrey</u>.
+- [Mars Science Laboratory Algorithms and Flight Software for Autonomously Drilling Rocks](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21475), **2013**, `JFR`, <u>Caltech</u>.
+- [The evolution of the curiosity rover sampling chain](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21913), **2019**, `JFR`, <u>NASA</u>.
+- [Remote mobile manipulation with the centauro robot: Full-body telepresence and autonomous operator assistance](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21895), **2019**, `JFR`, <u>University of Bonn, Italian Institute of Technology, Scuola Superiore Sant'Anna</u>.
+- [The ARCHES Space-Analogue Demonstration Mission: Towards Heterogeneous Teams of Autonomous Robots for Collaborative Scientific Sampling in Planetary Exploration](https://ieeexplore.ieee.org/abstract/document/9134730), **2020**, `RAL`, <u>DLR, KIT</u>.
+- [Autonomy and Perception for Space Mining](https://ieeexplore.ieee.org/abstract/document/9811661/), **2022**, `ICRA`, <u>The University of Adelaide</u>.
+- [Martian Exploration of Lava Tubes (MELT) with ReachBot: Scientific Investigation and Concept of Operations](https://ieeexplore.ieee.org/abstract/document/10687389), **2024**, `iSpaRo`, <u>Stanford University, Purdue University</u>.
+- [Space-LLaVA: A Vision-Language Model Adapted to Extraterrestrial Applications](https://arxiv.org/pdf/2408.05924), **2024**, `arXiv`, <u>Stanford University</u>.
+- [The DLR Moon-Mars Test Site for Robotic Planetary Exploration](https://ieeexplore.ieee.org/abstract/document/10687411/), **2024**, `iSpaRo`, <u>DLR, BL9 Landscape Architects</u>.
+- [A Mission Architecture for a Human-Robot Collaborative Planetary Exploration Cascade](https://ieeexplore.ieee.org/abstract/document/10687418/), **2024**, `iSpaRo`, <u>Graz University of Technology</u>.
+- [Robotic exploration of Martian caves: Evaluating operational concepts through analog experiments in lava tubes](https://www.sciencedirect.com/science/article/abs/pii/S0094576524004107), **2024**, `Acta Astronautica`, <u>Caltech, USC, University of Guelph</u>.
+- [AI Space Cortex: An Experimental System for Future Era Space Exploration](https://ieeexplore.ieee.org/abstract/document/11078376), **2025**, `TFR`, <u>Caltech, Okean Solutions, Stealth Labs</u>.
+- [A Human–Robot Team Knowledge-Enhanced Large Language Model for Fault Analysis in Lunar Surface Exploration](https://www.mdpi.com/2226-4310/12/4/325), **2025**, `Aerospace`, <u>HUST</u>.
+- [Towards A Catalogue of Requirement Patterns for Space Robotic Missions](https://arxiv.org/pdf/2511.14438), **2025**, `arXiv`, <u>University of Manchester</u>.
+- [Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction](https://arxiv.org/pdf/2601.05491), **2026**, `arXiv`, <u>Tohoku University</u>.
+- [Autonomous Robotic Assembly for Planetary Missions: A Dual Arm LEGO Based Simulation Study](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2585), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
+- [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
+- [Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge](https://arxiv.org/pdf/2603.17232), **2025**, `ION GNSS+ Conference`, <u>Stanford University</u>.
+- [Long-Reach Robotic Cleaning for Lunar Solar Arrays](https://arxiv.org/pdf/2603.29240), **2026**, `arXiv`, <u>Stanford University</u>.
+
+
+### 3 Sampling: Level C – Small-Scale Sampling via Single Robot
 
 - [Spacecraft sample collection and subsurface excavation of asteroid (101955) Bennu](https://www.science.org/doi/abs/10.1126/science.abm1018), **2022**, `Science`, <u>University of Arizona, KinetX, University of Central Florida</u>.
 - [Autonomous surface sampling for the Europa Lander mission concept](https://www.science.org/doi/abs/10.1126/scirobotics.adi5582), **2025**, `Science Robotics`, <u>Caltech</u>.
@@ -309,15 +321,24 @@
 
 ### 4 Excavation: Level D – Large-Scale Mining via Multi-Robots
 
+- [Towards Coordinated Multirobot Missions for Lunar Sample Collection in an Unknown Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21491), **2013**, `JFR`, <u>DFKI</u>.
+- [Field testing of a cooperative multi-robot sample return mission in mars analogue environment](https://www.dfki.de/fileadmin/user_upload/import/9091_3A-sonsalla.pdf), **2017**, `ASTRA`, <u>DFKI</u>.
+- [COROB-X: A Cooperative robot team for the exploration of lunar skylights](https://insu.hal.science/insu-03751549/), **2022**, `ASTRA`, <u>DFKI</u>. 
+- [Multi-robot cooperation for lunar In-Situ resource utilization](https://www.frontiersin.org/articles/10.3389/frobt.2023.1149080/full), **2023**, `Frontiers in Robotics and AI`, <u>West Virginia University</u>.
+- [Scientific exploration of challenging planetary analog environments with a team of legged robots](https://www.science.org/doi/abs/10.1126/scirobotics.ade9548), **2023**, `Science Robotics`, <u>ETH</u>.
+- [Multi-robot cooperation for lunar In-Situ resource utilization](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1149080/full), **2023**, `Frontiers in Robotics and AI`, <u>West Virginia University</u>.
 - [CADRE MoonDB: Distributed Database for Multi-Robot Information-Sharing and Map-Merging for Lunar Exploration](https://www.federico.io/pdf/Saboia.Rossi.ea.MASSPACE24.pdf), **2024**, `MASSpace Workshop`, <u>Caltech</u>.
 - [Multi-Agent Autonomy for Space Exploration on the CADRELunarTechnology Demonstration](https://ieeexplore.ieee.org/abstract/document/10521425/), **2024**, `IEEE Aerospace Conference`, <u>Caltech</u>.
 - [Competency-Aware Collaborative Robotic Surface Exploration: A Study at the Mars Desert Research Station](https://ieeexplore.ieee.org/abstract/document/11154044/), **2025**, `TFR`, <u>University of Colorado Boulder, University of North Carolina Chapel Hill</u>.
+- [Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO](https://arxiv.org/pdf/2604.01213), **2026**, `arXiv`, <u>ETH</u>.
 
 ### 5 Extraction: Level E – Resource Purification & Extraction
 
+- [Mobile in-situ water extractor (MISWE) for Mars, Moon, and Asteroids in situ resource utilization](https://arc.aiaa.org/doi/pdf/10.2514/6.2012-5168), **2012**, `AIAA SPACE conference & exposition`, <u>Honeybee Robotics</u>.
 
 ### 6 Utilization: Level F – In-Situ Resource Utilization (ISRU) & Return Transport
 
+- [Lunar Rover Cargo Transport: Mission Concept and Field Test](https://ieeexplore.ieee.org/document/11343858), **2026**, `TFR`, <u>University of Toronto, MDA Space, Centre de Technologies Avancées</u>.
 
 ### 7 Space Mining Survey Paper
 
@@ -347,46 +368,6 @@
 - [Survey on AI-Enabled Computer Vision Technologies and Applications for Space Robotic Missions](https://onlinelibrary.wiley.com/doi/10.1002/rob.70150), **2026**, `JFR`, <u>GMV Innovating Solutions Sp. z o.o, Airspeed 2, University of Surre</u>.
 - [The Evolution of Autonomous Systems for Planetary Cave Exploration: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.70233), **2026**, `JFR`, <u> University of Glasgow</u>.
 
-
-
-
-
-
-
-
-
-###  3.5 Operation and Tasks
-
-- [Planthaber, others, Lunares: Lunar crater exploration with heterogeneous multi robot systems](https://link.springer.com/article/10.1007/s11370-010-0081-4), **2011**, `Intelligent Service Robotics`, <u>DFKI, EADS Astrium GmbH, OHB System AG</u>.
-- [Mobile in-situ water extractor (MISWE) for Mars, Moon, and Asteroids in situ resource utilization](https://arc.aiaa.org/doi/pdf/10.2514/6.2012-5168), **2012**, `AIAA SPACE conference & exposition`, <u>Honeybee Robotics</u>.
-- [Autonomous Go-and-Touch Exploration (AGATE)](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21401), **2012**, `JFR`, <u>Yoder Software, Ohio Northern University</u>
-- [The ESA Lunar Robotics Challenge: Simulating operations at the lunar south pole](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20429), **2012**, `JFR`, <u>University of Pisa, Jacobs University, University of Surrey</u>.
-- [Towards Coordinated Multirobot Missions for Lunar Sample Collection in an Unknown Environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21491), **2013**, `JFR`, <u>DFKI</u>.
-- [Mars Science Laboratory Algorithms and Flight Software for Autonomously Drilling Rocks](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21475), **2013**, `JFR`, <u>Caltech</u>.
-- [Field testing of a cooperative multi-robot sample return mission in mars analogue environment](https://www.dfki.de/fileadmin/user_upload/import/9091_3A-sonsalla.pdf), **2017**, `ASTRA`, <u>DFKI</u>.
-- [The evolution of the curiosity rover sampling chain](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21913), **2019**, `JFR`, <u>NASA</u>.
-- [Remote mobile manipulation with the centauro robot: Full-body telepresence and autonomous operator assistance](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21895), **2019**, `JFR`, <u>University of Bonn, Italian Institute of Technology, Scuola Superiore Sant'Anna</u>.
-- [The ARCHES Space-Analogue Demonstration Mission: Towards Heterogeneous Teams of Autonomous Robots for Collaborative Scientific Sampling in Planetary Exploration](https://ieeexplore.ieee.org/abstract/document/9134730), **2020**, `RAL`, <u>DLR, KIT</u>.
-- [Autonomy and Perception for Space Mining](https://ieeexplore.ieee.org/abstract/document/9811661/), **2022**, `ICRA`, <u>The University of Adelaide</u>.
-- [COROB-X: A Cooperative robot team for the exploration of lunar skylights](https://insu.hal.science/insu-03751549/), **2022**, `ASTRA`, <u>DFKI</u>. 
-- [Multi-robot cooperation for lunar In-Situ resource utilization](https://www.frontiersin.org/articles/10.3389/frobt.2023.1149080/full), **2023**, `Frontiers in Robotics and AI`, <u>West Virginia University</u>.
-- [Scientific exploration of challenging planetary analog environments with a team of legged robots](https://www.science.org/doi/abs/10.1126/scirobotics.ade9548), **2023**, `Science Robotics`, <u>ETH</u>.
-- [Multi-robot cooperation for lunar In-Situ resource utilization](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1149080/full), **2023**, `Frontiers in Robotics and AI`, <u>West Virginia University</u>.
-- [Martian Exploration of Lava Tubes (MELT) with ReachBot: Scientific Investigation and Concept of Operations](https://ieeexplore.ieee.org/abstract/document/10687389), **2024**, `iSpaRo`, <u>Stanford University, Purdue University</u>.
-- [Space-LLaVA: A Vision-Language Model Adapted to Extraterrestrial Applications](https://arxiv.org/pdf/2408.05924), **2024**, `arXiv`, <u>Stanford University</u>.
-- [The DLR Moon-Mars Test Site for Robotic Planetary Exploration](https://ieeexplore.ieee.org/abstract/document/10687411/), **2024**, `iSpaRo`, <u>DLR, BL9 Landscape Architects</u>.
-- [A Mission Architecture for a Human-Robot Collaborative Planetary Exploration Cascade](https://ieeexplore.ieee.org/abstract/document/10687418/), **2024**, `iSpaRo`, <u>Graz University of Technology</u>.
-- [Robotic exploration of Martian caves: Evaluating operational concepts through analog experiments in lava tubes](https://www.sciencedirect.com/science/article/abs/pii/S0094576524004107), **2024**, `Acta Astronautica`, <u>Caltech, USC, University of Guelph</u>.
-- [AI Space Cortex: An Experimental System for Future Era Space Exploration](https://ieeexplore.ieee.org/abstract/document/11078376), **2025**, `TFR`, <u>Caltech, Okean Solutions, Stealth Labs</u>.
-- [A Human–Robot Team Knowledge-Enhanced Large Language Model for Fault Analysis in Lunar Surface Exploration](https://www.mdpi.com/2226-4310/12/4/325), **2025**, `Aerospace`, <u>HUST</u>.
-- [Towards A Catalogue of Requirement Patterns for Space Robotic Missions](https://arxiv.org/pdf/2511.14438), **2025**, `arXiv`, <u>University of Manchester</u>.
-- [Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction](https://arxiv.org/pdf/2601.05491), **2026**, `arXiv`, <u>Tohoku University</u>.
-- [Autonomous Robotic Assembly for Planetary Missions: A Dual Arm LEGO Based Simulation Study](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2585), **2026**, `AIAA`, <u>Embry-Riddle Aeronautical University</u>.
-- [Lunar Rover Cargo Transport: Mission Concept and Field Test](https://ieeexplore.ieee.org/document/11343858), **2026**, `TFR`, <u>University of Toronto, MDA Space, Centre de Technologies Avancées</u>.
-- [Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU](https://arxiv.org/pdf/2511.00492), **2025**, `arXiv`, <u>University of Stuttgart, Tohoku University</u>.
-- [Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge](https://arxiv.org/pdf/2603.17232), **2025**, `ION GNSS+ Conference`, <u>Stanford University</u>.
-- [Long-Reach Robotic Cleaning for Lunar Solar Arrays](https://arxiv.org/pdf/2603.29240), **2026**, `arXiv`, <u>Stanford University</u>.
-- [Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO](https://arxiv.org/pdf/2604.01213), **2026**, `arXiv`, <u>ETH</u>.
 
 
 ### 3.6. Dataset & Simulator
