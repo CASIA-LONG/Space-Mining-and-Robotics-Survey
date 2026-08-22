@@ -32,27 +32,25 @@
 
 <a href="https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN"><strong>Long Chen</strong></a><sup>1,10,11*</sup>
 
-<sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+<sup>1</sup>Institute of Automation, Chinese Academy of Sciences
 &nbsp;&nbsp;
-<sup>2</sup>Technical University of Munich, Munich, 80333, Germany
-
-<sup>3</sup>Obuda University, Budapest, 1034, Hungary
+<sup>2</sup>Technical University of Munich
 &nbsp;&nbsp;
-<sup>4</sup>Beihang University, Beijing, 100191, China
+<sup>3</sup>Obuda University
+
+<sup>4</sup>Beihang University
 &nbsp;&nbsp;
-<sup>5</sup>Wuhan University, Wuhan, 430072, China
-
-<sup>6</sup>Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, 100190, China
-
-<sup>7</sup>University of Würzburg, Würzburg, 97074, Germany
+<sup>5</sup>Wuhan University
 &nbsp;&nbsp;
-<sup>8</sup>Shenzhen University, Shenzhen, 518060, China
+<sup>6</sup>Aerospace Information Research Institute, Chinese Academy of Sciences
 
-<sup>9</sup>China University of Mining and Technology-Beijing, Beijing, 100083, China
+<sup>7</sup>University of Würzburg
+<sup>8</sup>Shenzhen University
+<sup>9</sup>China University of Mining and Technology-Beijing
 
-<sup>10</sup>WAYTOUS, Beijing, 100190, China
-&nbsp;&nbsp;
-<sup>11</sup>OpenSpace Lab, China
+
+<sup>10</sup>WAYTOUS
+<sup>11</sup>OpenSpace Lab
 
 *Corresponding author. Email: long.chen@ia.ac.cn
 
