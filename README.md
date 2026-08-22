@@ -1,4 +1,79 @@
-# Space Mining with Robotics List
+<div align="center">
+  <h1><b>Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction</b></h1>
+</div>
+
+<div align="center">
+
+<a href="https://doongli.github.io/"><strong>Dong Li</strong></a><sup>1,11</sup>
+&nbsp;&nbsp;
+<a href=""><strong>Dujun Nie</strong></a><sup>1,11</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=somOsoEAAAAJ"><strong>Xiaotong Zhang</strong></a><sup>1,11</sup>
+&nbsp;&nbsp;
+<a href=""><strong>Ruilin Wang</strong></a><sup>1,11</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=obmi8lYAAAAJ&hl=zh-CN"><strong>Yuchen Li</strong></a><sup>2,3</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=oV0FItgAAAAJ&hl=zh-CN&oi=ao"><strong>Chang Ge</strong></a><sup>4</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=gvku12QAAAAJ&hl=zh-CN&oi=ao"><strong>Chao Xiong</strong></a><sup>5</sup>
+<br>
+<a href="http://english.aircas.cas.cn/education/sfis/201901/t20190108_203807.html"><strong>Kaichang Di</strong></a><sup>6</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=0KilZDkAAAAJ&hl=en"><strong>Andreas Nüchter</strong></a><sup>7</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=sYZsfzgAAAAJ&hl=hu"><strong>Levente Kovács</strong></a><sup>3</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=CtGBKt4AAAAJ&hl=zh-CN&oi=ao"><strong>Qingquan Li</strong></a><sup>8</sup>
+&nbsp;&nbsp;
+<a href="https://zh.jxust.edu.cn/info/1349/16000.htm"><strong>Shirong Ge</strong></a><sup>9</sup>
+&nbsp;&nbsp;
+<a href="https://people.ucas.ac.cn/~wangfeiyue?language=en"><strong>Fei-Yue Wang</strong></a><sup>1</sup>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN"><strong>Long Chen</strong></a><sup>1,10,11*</sup>
+
+<br>
+*Corresponding author. Email: long.chen@ia.ac.cn
+<br><br>
+
+<sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+&nbsp;&nbsp;
+<sup>2</sup>Technical University of Munich, Munich, 80333, Germany
+
+<sup>3</sup>Obuda University, Budapest, 1034, Hungary
+&nbsp;&nbsp;
+<sup>4</sup>Beihang University, Beijing, 100191, China
+&nbsp;&nbsp;
+<sup>5</sup>Wuhan University, Wuhan, 430072, China
+
+<sup>6</sup>Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, 100190, China
+
+<sup>7</sup>University of Würzburg, Würzburg, 97074, Germany
+&nbsp;&nbsp;
+<sup>8</sup>Shenzhen University, Shenzhen, 518060, China
+
+<sup>9</sup>China University of Mining and Technology-Beijing, Beijing, 100083, China
+
+<sup>10</sup>WAYTOUS, Beijing, 100190, China
+&nbsp;&nbsp;
+<sup>11</sup>OpenSpace Lab, China
+
+</div>
+
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.28746-b31b1b.svg)]()
+
+</div>
+
+<br>
+<p align="center">
+<img src="IMG/cover.png" width="100%">
+</p>
+
+
+
 
 *Note: If a paper has too many author affiliations, we will only list the first three affiliations.*
 
@@ -12,7 +87,7 @@
 - [星表规模化资源采集机器人研究进展及发展趋势](https://robot.sia.cn/cn/article/pdf/preview/10.13973/j.cnki.robot.250062.pdf), **2025**, `机器人`, <u>北京航空航天大学, 广东工业大学, 中国空间技术研究院</u>.
 - [A framework for the economic evaluation of lunar mining projects](https://link.springer.com/article/10.1007/s44461-026-00008-9), **2026**, `Space and Planetary Resources`, <u>University of Zurich, ETH</u>.
 
-## 2 Space Robot Discover, Progress, and Plan
+## 2 Space Robot Discovery, Progress, and Plan
 
 ### 2.1 Discover and Progress
 
@@ -38,6 +113,7 @@
 
 
 ### Remote Sensing
+
 - 月球探测遥感影像匹配方法研究综述
 - [月球探测中遥感制图的几何精度问题](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20254405/), **2025**, `遥感学报`, <u>中国科学院空天信息创新研究院</u>.
 
@@ -379,7 +455,6 @@
 | **Orbital Mining Corp** | 2022 | USA | Lunar regolith harvesting, robotic thermal processing | [Link](https://orbitalmining.com/) |
 | **AstroForge** | 2022 | USA | Asteroid mining, in-space resource processing | [Link](https://www.astroforge.io/) |
 
-## 6 Space Mining Policy
 
 # Citation
 
