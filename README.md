@@ -32,10 +32,6 @@
 &nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN"><strong>Long Chen</strong></a><sup>1,10,11*</sup>
 
-<br>
-*Corresponding author. Email: long.chen@ia.ac.cn
-<br><br>
-
 <sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
 &nbsp;&nbsp;
 <sup>2</sup>Technical University of Munich, Munich, 80333, Germany
@@ -57,6 +53,10 @@
 <sup>10</sup>WAYTOUS, Beijing, 100190, China
 &nbsp;&nbsp;
 <sup>11</sup>OpenSpace Lab, China
+
+<br>
+*Corresponding author. Email: long.chen@ia.ac.cn
+<br><br>
 
 </div>
 
