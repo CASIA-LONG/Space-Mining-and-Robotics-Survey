@@ -75,70 +75,33 @@
 
 
 
+
+
+## 1 Paper List
+
 *Note: If a paper has too many author affiliations, we will only list the first three affiliations.*
 
-## 1 Space Mining Paper List
+<p align="center">
+<img src="IMG/pipeline.png" width="100%">
+</p>
 
-- [A Review of Extra-Terrestrial Mining Robot Concepts](https://ascelibrary.org/doi/abs/10.1061/9780784412190.034), **2012**,`Earth and Space`, <u>NASA, Colorado School of Mines</u>.
-- [太空采矿发展现状、机遇和挑战](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppztGjFNr2ZXmT2nmAjv-p-1vVtFWQdFVDz6Fe4lOh-o9Z-H0yC-fFfdPBu_mFBataJIzssEqa8VRcLb3H_zPmWbuCKsTtlkZ85xkQnvnzg0J9bXjaIQBzFm5j1P2OmJguP5XWtqFVQKtUfHnUA-Q4tFpAb3ckSb64BY6XAwZzXQQ_w==&uniplatform=NZKPT&language=CHS), **2022**, `中国矿业大学学报`, <u>中国矿业大学</u>.
-- [Space Mining is Coming: Implications for Space Exploration and Terrestrial Mining](https://ntrs.nasa.gov/api/citations/20230008182/downloads/Space%20Mining%20Keynote_Sanders-Final.pdf), **2023**, `World Mining Congress`, <u>NASA</u>.
-- [深空物质资源利用现状与展望](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppzsOO8WXQDxZ6h0MkRaE9wIYeEOslHMHs9kZAbeoADec82RaF4AbIbD-_F-ncCtFYXdFIIdAmbk2p_NKUJVhzIiYiTb6LxAbqKqcJvRQRb5ILu40oIc6yJC8k2S8hz1vjh63UGYarQjha-F_YBh4Tj6HbUwh4a_nZyeaf8o_6P2T3g==&uniplatform=NZKPT&language=CHS), **2023**, `科技导报`, <u>中国深空探测实验室</u>.
-- [从地球到月球：采矿机器人关键技术研究与展望](http://dianda.cqvip.com/Qikan/Article/Detail?id=7202480746), **2025**, `中南大学学报(自然科学版)`, <u>中南大学</u>.
-- [星表规模化资源采集机器人研究进展及发展趋势](https://robot.sia.cn/cn/article/pdf/preview/10.13973/j.cnki.robot.250062.pdf), **2025**, `机器人`, <u>北京航空航天大学, 广东工业大学, 中国空间技术研究院</u>.
-- [A framework for the economic evaluation of lunar mining projects](https://link.springer.com/article/10.1007/s44461-026-00008-9), **2026**, `Space and Planetary Resources`, <u>University of Zurich, ETH</u>.
+### 1 Prospecting: Level A – Target & Area Identification via Remote Sensing
 
-## 2 Space Robot Discovery, Progress, and Plan
+- [月球探测中遥感制图的几何精度问题](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20254405/), **2025**, `遥感学报`, <u>中国科学院空天信息创新研究院</u>.
+- [Sub-metre Lunar DEM Generation and Validation from Chandrayaan-2 OHRC Multi-View Imagery Using Open-Source Photogrammetry](https://arxiv.org/pdf/2604.01032), **2026**, `arXiv`, <u>Manipal University Jaipur, Indian Space Research Organisation, NASA</u>.
 
-### 2.1 Discover and Progress
+### 2 Exploration: Level B – Precise Exploration & Resource Detection via Robots
+
+
 
 - [Mars exploration rover mobility development](https://ieeexplore.ieee.org/abstract/document/1638012/), 2006, RAM, <u>NASA, Caltech</u>.
-- [Spacecraft sample collection and subsurface excavation of asteroid (101955) Bennu](https://www.science.org/doi/abs/10.1126/science.abm1018), **2022**, `Science`, <u>University of Arizona, KinetX, University of Central Florida</u>.
-- [A 2-year locomotive exploration and scientific investigation of the lunar farside by the yutu-2 rover](https://www.science.org/doi/abs/10.1126/scirobotics.abj6660), **2022**, `Science Robotics`,<u>HIT, Beijing Aerospace Control Center, Ryerson University</u>. 
 - [Surface characteristics of the zhurong mars rover traverse at utopia planitia](https://www.nature.com/articles/s41561-022-00905-6), **2022**, `Nature Geoscience`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>. 
+- [A 2-year locomotive exploration and scientific investigation of the lunar farside by the yutu-2 rover](https://www.science.org/doi/abs/10.1126/scirobotics.abj6660), **2022**, `Science Robotics`,<u>HIT, Beijing Aerospace Control Center, Ryerson University</u>. 
 - [Autonomous robotics is driving Perseverance rover's progress on Mars](https://www.science.org/doi/full/10.1126/scirobotics.adi3099), **2023**, `Science Robotics`, <u>Caltech</u>.
 - [Mars’ surface radiation environment measured with the Mars Science Laboratory’s Curiosity rover](https://www.science.org/doi/abs/10.1126/science.1244797), **2023**, `Science`, <u>Southwest Research Institute, Christian Albrechts Universit, NASA</u>.
 - [Lunar rock investigation and tri-aspect characterization of lunar farside regolith by a digital twin](https://www.nature.com/articles/s41467-024-46233-8), **2024**, `Nature Communications`, <u>HIT, Beijing Aerospace Control Center, Chinese Academy of Sciences</u>.
 
-### 2.2 Plan
-
-- [Autonomous surface sampling for the Europa Lander mission concept](https://www.science.org/doi/abs/10.1126/scirobotics.adi5582), **2025**, `Science Robotics`, <u>Caltech</u>.
-
-### 2.3 Soil Sampling
-- [Path to autonomous soil sampling and analysis by ground-based robots](https://www.sciencedirect.com/science/article/pii/S0301479724011162), **2026**, `Journal of Environmental Management`, <u>Carnegie Mellon University, Chevron Technology Center</u>.
-
-
-### 2.4
-
-## 3 Space Robot Paper List
-
-
-### Remote Sensing
-
-- 月球探测遥感影像匹配方法研究综述
-- [月球探测中遥感制图的几何精度问题](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20254405/), **2025**, `遥感学报`, <u>中国科学院空天信息创新研究院</u>.
-
-### Landing
-- 嫦娥六号着陆点高精度视觉定位,
-- 基于多源影像的探测器月面着陆点定位与精度验证
-
-### 3.1 Survey Paper
-
-- [Space robotics in Europe: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0921889097000535), **1998**, `RAS`, <u>ESA/ESTEC</u>.
-- [A survey of space robotics](https://ntrs.nasa.gov/api/citations/20030054507/downloads/2003isairas.pedersen.pdf), **2003**, `International Symposium on Artificial Intelligence, Robotics and Automation in Space`, <u>NASA, CMU</u>.
-- [Robot mobility systems for planetary surface exploration: state-of-the-art and future outlook: a literature survey](https://pdfs.semanticscholar.org/1d5b/97f410d5cd0af34c603fc7d3f0700684654a.pdf), **2010**, `Aerospace Technologies Advancements`, <u>DLR</u>.
-- [Review on space robotics: Toward top-level science through space exploration](https://www.science.org/doi/10.1126/scirobotics.aan5074), **2017**, `Science Robotics`, <u>University of Surrey, Caltech</u>.
-- [High‐speed mobility on planetary surfaces: A technical review](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21912), **2019**, `JFR`, <u>Tohoku University, European Space Agency</u>.
-- [Review on planetary regolith-sampling technology](https://www.sciencedirect.com/science/article/pii/S0376042121000634), **2021**, `Progress in Aerospace Sciences`, <u>HIT, Beihang University, Guangdong University of Technology</u>.
-- [星表移动探测机器人研究现状综述](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppzvneG_CnX6SeAzd-jnFBJ0XufDrSKOedC_xmE495S4xWCCipyo-l0ivnVd_S5moxAITIr4sj_6acPLlPybxDqZRpHPuQ19CAxLCLxDa5OwsryI7jPcQ0ZUWrFSARWYXYoQZyos7mfGK2VmpQ0TFZ2k2LNYcPmkWoc59--cdjMh2Sg==&uniplatform=NZKPT&language=CHS), **2021**, `宇航学报`, <u>重庆大学</u>.
-- [A review of sampling exploration and devices for extraterrestrial celestial bodies](https://link.springer.com/article/10.1007/s11214-022-00926-y), **2022**, `Space Science Reviews`, <u>Shenzhen University</u>.
-- [Semantic terrain segmentation in the navigation vision of planetary rovers—A systematic literature review](https://www.mdpi.com/1424-8220/22/21/8393), **2022**, `Sensors,` <u>Cranfield University, Civil Aviation University of China</u>.
-- [Special spherical mobile robot for planetary surface exploration: A review](https://journals.sagepub.com/doi/abs/10.1177/17298806231162207), **2023,** `International Journal of Advanced Robotic Systems`, <u>Beijing University of Posts and Telecommunications, China Coal Research Institute, Beijing Normal University</u>.
-- [Exploring beyond Earth using space robotics](https://www.science.org/doi/abs/10.1126/scirobotics.adi6424), **2024**, `Science Robotics`, <u> Caltech, European Space Agency</u>.
-- [A Comprehensive Review of Path-Planning Algorithms for Planetary Rover Exploration](https://www.mdpi.com/2072-4292/17/11/1924), **2025**, `Remote Sensing`, <u>Deep Space Exploration Laboratory, China</u>.
-- [Survey on AI-Enabled Computer Vision Technologies and Applications for Space Robotic Missions](https://onlinelibrary.wiley.com/doi/10.1002/rob.70150), **2026**, `JFR`, <u>GMV Innovating Solutions Sp. z o.o, Airspeed 2, University of Surre</u>.
-- [The Evolution of Autonomous Systems for Planetary Cave Exploration: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.70233), **2026**, `JFR`, <u> University of Glasgow</u>.
-
-### 3.2 Mechanisms & Control
+### 3 Sampling: Level C – Small-Scale Sampling via Single Robot
 
 #### 3.2.1 Robot and Mechanisms
 
@@ -184,10 +147,6 @@
 - [MR_Go: A Magnetorheological Quadruped Robot for Energy-Efficient, High-Payload, and Impact-Tolerant Planetary Exploration](https://ieeexplore.ieee.org/document/11447398), **2026**, `RAL`, <u>University of Science and Technology of China, Anhui University</u>
 - [Towards Low-Gravity Planetary Exploration using Reinforcement Learning for Walking, Jumping, and In-flight Attitude Control](https://arxiv.org/pdf/2605.24643), **2026**, `arXiv`, <u>NTNU</u>. [[Website](https://ntnu-arl.github.io/olympus/)]
 
-#### 3.2.2 Space Emulation Environment
-
-- [Robotic Space Simulator: Controls Implementation for Auxiliary Axes and Zero-G Dynamics](https://ieeexplore.ieee.org/abstract/document/11128455/), **2025**, `ICRA`, <u>TAMU</u>.
-- [A Study Demonstrating That Using Gravitational Offsetto Prepare Extraterrestrial Mobility Missions IsMisleading](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22597), **2025**, `JFR`, <u>SJTU, University of Wisconsin‐Madison, NASA</u>.
 
 #### 3.2.3 Sensors
 
@@ -336,16 +295,64 @@
 
 #### 3.4.2 Exploration
 
-- [CADRE MoonDB: Distributed Database for Multi-Robot Information-Sharing and Map-Merging for Lunar Exploration](https://www.federico.io/pdf/Saboia.Rossi.ea.MASSPACE24.pdf), **2024**, `MASSpace Workshop`, <u>Caltech</u>.
-- [Multi-Agent Autonomy for Space Exploration on the CADRELunarTechnology Demonstration](https://ieeexplore.ieee.org/abstract/document/10521425/), **2024**, `IEEE Aerospace Conference`, <u>Caltech</u>.
-- [Competency-Aware Collaborative Robotic Surface Exploration: A Study at the Mars Desert Research Station](https://ieeexplore.ieee.org/abstract/document/11154044/), **2025**, `TFR`, <u>University of Colorado Boulder, University of North Carolina Chapel Hill</u>.
 - [Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions](https://arxiv.org/pdf/2510.18986), **2025**, `arXiv`, <u>IIT</u>.
 - [Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements](https://arxiv.org/pdf/2510.19101), **2025**, `arXiv`, <u>USC</u>.
 - [CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner](https://arxiv.org/pdf/2511.12984), **2025**, `arXiv`, <u>Inha University, Kyung Hee University</u>.
 - [Proprioceptive Safe Active Navigation and Exploration for Planetary Environments](https://arxiv.org/pdf/2603.08905), **2026**, `arXiv`, <u>Georgia Institute of Technology, University of Southern California</u>.
 
-### 3.4.3 Remote Sensing
-- [Sub-metre Lunar DEM Generation and Validation from Chandrayaan-2 OHRC Multi-View Imagery Using Open-Source Photogrammetry](https://arxiv.org/pdf/2604.01032), **2026**, `arXiv`, <u>Manipal University Jaipur, Indian Space Research Organisation, NASA</u>.
+#### 2.3 Soil Sampling
+
+- [Spacecraft sample collection and subsurface excavation of asteroid (101955) Bennu](https://www.science.org/doi/abs/10.1126/science.abm1018), **2022**, `Science`, <u>University of Arizona, KinetX, University of Central Florida</u>.
+- [Autonomous surface sampling for the Europa Lander mission concept](https://www.science.org/doi/abs/10.1126/scirobotics.adi5582), **2025**, `Science Robotics`, <u>Caltech</u>.
+- [Path to autonomous soil sampling and analysis by ground-based robots](https://www.sciencedirect.com/science/article/pii/S0301479724011162), **2026**, `Journal of Environmental Management`, <u>Carnegie Mellon University, Chevron Technology Center</u>.
+
+
+### 4 Excavation: Level D – Large-Scale Mining via Multi-Robots
+
+- [CADRE MoonDB: Distributed Database for Multi-Robot Information-Sharing and Map-Merging for Lunar Exploration](https://www.federico.io/pdf/Saboia.Rossi.ea.MASSPACE24.pdf), **2024**, `MASSpace Workshop`, <u>Caltech</u>.
+- [Multi-Agent Autonomy for Space Exploration on the CADRELunarTechnology Demonstration](https://ieeexplore.ieee.org/abstract/document/10521425/), **2024**, `IEEE Aerospace Conference`, <u>Caltech</u>.
+- [Competency-Aware Collaborative Robotic Surface Exploration: A Study at the Mars Desert Research Station](https://ieeexplore.ieee.org/abstract/document/11154044/), **2025**, `TFR`, <u>University of Colorado Boulder, University of North Carolina Chapel Hill</u>.
+
+### 5 Extraction: Level E – Resource Purification & Extraction
+
+
+### 6 Utilization: Level F – In-Situ Resource Utilization (ISRU) & Return Transport
+
+
+### 7 Space Mining Survey Paper
+
+- [A Review of Extra-Terrestrial Mining Robot Concepts](https://ascelibrary.org/doi/abs/10.1061/9780784412190.034), **2012**,`Earth and Space`, <u>NASA, Colorado School of Mines</u>.
+- [太空采矿发展现状、机遇和挑战](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppztGjFNr2ZXmT2nmAjv-p-1vVtFWQdFVDz6Fe4lOh-o9Z-H0yC-fFfdPBu_mFBataJIzssEqa8VRcLb3H_zPmWbuCKsTtlkZ85xkQnvnzg0J9bXjaIQBzFm5j1P2OmJguP5XWtqFVQKtUfHnUA-Q4tFpAb3ckSb64BY6XAwZzXQQ_w==&uniplatform=NZKPT&language=CHS), **2022**, `中国矿业大学学报`, <u>中国矿业大学</u>.
+- [Space Mining is Coming: Implications for Space Exploration and Terrestrial Mining](https://ntrs.nasa.gov/api/citations/20230008182/downloads/Space%20Mining%20Keynote_Sanders-Final.pdf), **2023**, `World Mining Congress`, <u>NASA</u>.
+- [深空物质资源利用现状与展望](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppzsOO8WXQDxZ6h0MkRaE9wIYeEOslHMHs9kZAbeoADec82RaF4AbIbD-_F-ncCtFYXdFIIdAmbk2p_NKUJVhzIiYiTb6LxAbqKqcJvRQRb5ILu40oIc6yJC8k2S8hz1vjh63UGYarQjha-F_YBh4Tj6HbUwh4a_nZyeaf8o_6P2T3g==&uniplatform=NZKPT&language=CHS), **2023**, `科技导报`, <u>中国深空探测实验室</u>.
+- [从地球到月球：采矿机器人关键技术研究与展望](http://dianda.cqvip.com/Qikan/Article/Detail?id=7202480746), **2025**, `中南大学学报(自然科学版)`, <u>中南大学</u>.
+- [星表规模化资源采集机器人研究进展及发展趋势](https://robot.sia.cn/cn/article/pdf/preview/10.13973/j.cnki.robot.250062.pdf), **2025**, `机器人`, <u>北京航空航天大学, 广东工业大学, 中国空间技术研究院</u>.
+- [A framework for the economic evaluation of lunar mining projects](https://link.springer.com/article/10.1007/s44461-026-00008-9), **2026**, `Space and Planetary Resources`, <u>University of Zurich, ETH</u>.
+
+
+### 8 Space Robotics Survey Paper
+
+- [Space robotics in Europe: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0921889097000535), **1998**, `RAS`, <u>ESA/ESTEC</u>.
+- [A survey of space robotics](https://ntrs.nasa.gov/api/citations/20030054507/downloads/2003isairas.pedersen.pdf), **2003**, `International Symposium on Artificial Intelligence, Robotics and Automation in Space`, <u>NASA, CMU</u>.
+- [Robot mobility systems for planetary surface exploration: state-of-the-art and future outlook: a literature survey](https://pdfs.semanticscholar.org/1d5b/97f410d5cd0af34c603fc7d3f0700684654a.pdf), **2010**, `Aerospace Technologies Advancements`, <u>DLR</u>.
+- [Review on space robotics: Toward top-level science through space exploration](https://www.science.org/doi/10.1126/scirobotics.aan5074), **2017**, `Science Robotics`, <u>University of Surrey, Caltech</u>.
+- [High‐speed mobility on planetary surfaces: A technical review](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21912), **2019**, `JFR`, <u>Tohoku University, European Space Agency</u>.
+- [Review on planetary regolith-sampling technology](https://www.sciencedirect.com/science/article/pii/S0376042121000634), **2021**, `Progress in Aerospace Sciences`, <u>HIT, Beihang University, Guangdong University of Technology</u>.
+- [星表移动探测机器人研究现状综述](https://kns.cnki.net/kcms2/article/abstract?v=eLwJ_SlppzvneG_CnX6SeAzd-jnFBJ0XufDrSKOedC_xmE495S4xWCCipyo-l0ivnVd_S5moxAITIr4sj_6acPLlPybxDqZRpHPuQ19CAxLCLxDa5OwsryI7jPcQ0ZUWrFSARWYXYoQZyos7mfGK2VmpQ0TFZ2k2LNYcPmkWoc59--cdjMh2Sg==&uniplatform=NZKPT&language=CHS), **2021**, `宇航学报`, <u>重庆大学</u>.
+- [A review of sampling exploration and devices for extraterrestrial celestial bodies](https://link.springer.com/article/10.1007/s11214-022-00926-y), **2022**, `Space Science Reviews`, <u>Shenzhen University</u>.
+- [Semantic terrain segmentation in the navigation vision of planetary rovers—A systematic literature review](https://www.mdpi.com/1424-8220/22/21/8393), **2022**, `Sensors,` <u>Cranfield University, Civil Aviation University of China</u>.
+- [Special spherical mobile robot for planetary surface exploration: A review](https://journals.sagepub.com/doi/abs/10.1177/17298806231162207), **2023,** `International Journal of Advanced Robotic Systems`, <u>Beijing University of Posts and Telecommunications, China Coal Research Institute, Beijing Normal University</u>.
+- [Exploring beyond Earth using space robotics](https://www.science.org/doi/abs/10.1126/scirobotics.adi6424), **2024**, `Science Robotics`, <u> Caltech, European Space Agency</u>.
+- [A Comprehensive Review of Path-Planning Algorithms for Planetary Rover Exploration](https://www.mdpi.com/2072-4292/17/11/1924), **2025**, `Remote Sensing`, <u>Deep Space Exploration Laboratory, China</u>.
+- [Survey on AI-Enabled Computer Vision Technologies and Applications for Space Robotic Missions](https://onlinelibrary.wiley.com/doi/10.1002/rob.70150), **2026**, `JFR`, <u>GMV Innovating Solutions Sp. z o.o, Airspeed 2, University of Surre</u>.
+- [The Evolution of Autonomous Systems for Planetary Cave Exploration: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.70233), **2026**, `JFR`, <u> University of Glasgow</u>.
+
+
+
+
+
+
+
 
 
 ###  3.5 Operation and Tasks
@@ -383,6 +390,10 @@
 
 
 ### 3.6. Dataset & Simulator
+
+<p align="center">
+<img src="IMG/sim2real.png" width="100%">
+</p>
 
 #### 3.6.1 Dataset
 
@@ -423,6 +434,12 @@
 #### UI and Digital Twin
 - [Design and evaluation of an UI for astronauts to control mobile robots on planetary surfaces](https://ieeexplore.ieee.org/abstract/document/10535929/), **2024**, `ICARSC`, <u>Julius-Maximilians-University</u>.
 - [Digital Twin for Analog Mars Missions: Investigating Local Positioning Alternatives for GNSS-Denied Environments](https://ieeexplore.ieee.org/abstract/document/10535929/), **2025**, `sensors`, <u>University of Innsbruck, University of Innsbruck, Ludwig-Maximilians-University</u>.
+
+
+#### Space Emulation Environment
+
+- [Robotic Space Simulator: Controls Implementation for Auxiliary Axes and Zero-G Dynamics](https://ieeexplore.ieee.org/abstract/document/11128455/), **2025**, `ICRA`, <u>TAMU</u>.
+- [A Study Demonstrating That Using Gravitational Offsetto Prepare Extraterrestrial Mobility Missions IsMisleading](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22597), **2025**, `JFR`, <u>SJTU, University of Wisconsin‐Madison, NASA</u>.
 
 ## 4 Space Robots Challenge
 
