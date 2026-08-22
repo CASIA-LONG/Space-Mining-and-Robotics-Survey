@@ -29,7 +29,7 @@
 <a href="https://zh.jxust.edu.cn/info/1349/16000.htm"><strong>Shirong Ge</strong></a><sup>9</sup>
 &nbsp;&nbsp;
 <a href="https://people.ucas.ac.cn/~wangfeiyue?language=en"><strong>Fei-Yue Wang</strong></a><sup>1</sup>
-&nbsp;&nbsp;
+
 <a href="https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN"><strong>Long Chen</strong></a><sup>1,10,11*</sup>
 
 <sup>1</sup>Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
