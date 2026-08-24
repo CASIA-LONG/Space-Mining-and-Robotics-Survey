@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2606.28746-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2608.21358-b31b1b.svg)](https://arxiv.org/pdf/2608.21358)
 
 </div>
 
@@ -456,7 +456,16 @@
 If you find this repository useful, please consider citing this list:
 
 ```
-todo list
+@article{li2026mining,
+  title         = {Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction},
+  author        = {Li, Dong and Nie, Dujun and Zhang, Xiaotong and Wang, Ruilin and Li, Yuchen and Ge, Chang and Xiong, Chao and Di, Kaichang and N{\"u}chter, Andreas and Kov{\'a}cs, Levente and Li, Qingquan and Ge, Shirong and Wang, Fei-Yue and Chen, Long},
+  journal       = {arXiv preprint arXiv:2608.21358},
+  year          = {2026},
+  eprint        = {2608.21358},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url           = {https://arxiv.org/abs/2608.21358}
+}
 ```
 
 
